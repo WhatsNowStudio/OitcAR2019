@@ -18,7 +18,7 @@ MonoBehaviour:
     boolVariables: []
     stringVariables:
     - useVariable: 1
-      name: GString/Mode
+      name: GString/Mode/AR_3D
       tooltip: 
       showInInspector: 0
       networkSync: 0
@@ -64,3 +64,4 @@ MonoBehaviour:
   - Kill
   - KillDone
   - Load
+  - Reset3DMode

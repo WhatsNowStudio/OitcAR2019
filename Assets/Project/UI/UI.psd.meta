@@ -9,6 +9,7 @@ TextureImporter:
     21300008: Frame
     21300010: Frame_Shadow
     21300012: UI_4
+    21300014: Back
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -230,13 +231,33 @@ TextureImporter:
         width: 105
         height: 105
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 25, y: 25, z: 25, w: 25}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: d021573712b5ef4479ecd21c34283acf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1768
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9701aee3163398749b0ce286a6679c1f
       vertices: []
       indices: 
       edges: []
