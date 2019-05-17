@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: cba4509327d7d8c48af8c014deb0b6ed
+timeCreated: 1469533793
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: M16iB20 axis1:1
+    100004: M16iB20 axis2:1
+    100006: M16iB20 axis3:1
+    100008: M16iB20 axis4:1
+    100010: M16iB20 axis5:1
+    100012: M16iB20 axis6:1
+    100014: M16iB20 base:1
+    100016: ' 1'
+    100018: RobotMA
+    100020: RobotMB
+    100022: RobotMC
+    100024: RobotMD
+    100026: RobotME
+    100028: RobotMF
+    100030: RobotMsite
+    400000: //RootNode
+    400002: M16iB20 axis1:1
+    400004: M16iB20 axis2:1
+    400006: M16iB20 axis3:1
+    400008: M16iB20 axis4:1
+    400010: M16iB20 axis5:1
+    400012: M16iB20 axis6:1
+    400014: M16iB20 base:1
+    400016: ' 1'
+    400018: RobotMA
+    400020: RobotMB
+    400022: RobotMC
+    400024: RobotMD
+    400026: RobotME
+    400028: RobotMF
+    400030: RobotMsite
+    2300000: M16iB20 axis1:1
+    2300002: M16iB20 axis2:1
+    2300004: M16iB20 axis3:1
+    2300006: M16iB20 axis4:1
+    2300008: M16iB20 axis5:1
+    2300010: M16iB20 axis6:1
+    2300012: M16iB20 base:1
+    2300014: RobotMA
+    2300016: RobotMB
+    2300018: RobotMC
+    2300020: RobotMD
+    2300022: RobotME
+    2300024: RobotMF
+    2300026: RobotMsite
+    3300000: M16iB20 axis1:1
+    3300002: M16iB20 axis2:1
+    3300004: M16iB20 axis3:1
+    3300006: M16iB20 axis4:1
+    3300008: M16iB20 axis5:1
+    3300010: M16iB20 axis6:1
+    3300012: M16iB20 base:1
+    3300014: RobotMA
+    3300016: RobotMB
+    3300018: RobotMC
+    3300020: RobotMD
+    3300022: RobotME
+    3300024: RobotMF
+    3300026: RobotMsite
+    4300000: M16iB20 axis5:1
+    4300002: M16iB20 axis3:1
+    4300004: M16iB20 axis1:1
+    4300006: M16iB20 base:1
+    4300008: M16iB20 axis6:1
+    4300010: M16iB20 axis2:1
+    4300012: M16iB20 axis4:1
+    4300014: RobotMsite
+    4300016: RobotMA
+    4300018: RobotMB
+    4300020: RobotMC
+    4300022: RobotMD
+    4300024: RobotME
+    4300026: RobotMF
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

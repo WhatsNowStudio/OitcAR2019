@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 5f19f5e4cb5a9b5418063c64be76118b
+timeCreated: 1469540596
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bin:003
+    100002: Bin:2
+    100004: //RootNode
+    100006: BinStandPlate:1
+    100008: BinStandPlate:2
+    100010: P1000-16.821 in:1
+    100012: P1000-16.821 in:2
+    100014: P1000-20 in-Cut:1
+    100016: P1000-20 in-Cut:2
+    100018: P1000-20 in-Cut:3
+    100020: P1000-20 in-Cut:4
+    100022: P1000-22in:1
+    100024: P1000-25:1
+    100026: P1000-25:2
+    100028: P1000-25:3
+    100030: P1000-52 in:1
+    100032: P1000-52 in:2
+    100034: P1000-62.25 in:1
+    100036: P1000-62.25 in:2
+    100038: P1001-14in:1
+    100040: P1001-14in:2
+    100042: P12901:1
+    100044: P12901:2
+    100046: P12901:3
+    100048: P12901:4
+    100050: P12901:5
+    100052: P12901:6
+    100054: P1290:1
+    100056: P1290:2
+    100058: P1290:3
+    100060: P1290:4
+    100062: P1290:5
+    100064: P1290:6
+    100066: P2072A:1
+    100068: P2072A:2
+    100070: P2072A:3
+    100072: P2072A:4
+    100074: P2073A:1
+    100076: P2073A:2
+    100078: P2267:1
+    100080: P2267:2
+    100082: P2267:3
+    100084: P2267:4
+    100086: P2267:5
+    100088: P2267:6
+    100090: P2267:7
+    100092: P2267:8
+    100094: Bin
+    100096: Bin001
+    100098: BinFrame
+    100100: BinFrame2
+    100102: BinStandPlate1
+    100104: BinStandPlate2
+    400000: Bin:003
+    400002: Bin:2
+    400004: //RootNode
+    400006: BinStandPlate:1
+    400008: BinStandPlate:2
+    400010: P1000-16.821 in:1
+    400012: P1000-16.821 in:2
+    400014: P1000-20 in-Cut:1
+    400016: P1000-20 in-Cut:2
+    400018: P1000-20 in-Cut:3
+    400020: P1000-20 in-Cut:4
+    400022: P1000-22in:1
+    400024: P1000-25:1
+    400026: P1000-25:2
+    400028: P1000-25:3
+    400030: P1000-52 in:1
+    400032: P1000-52 in:2
+    400034: P1000-62.25 in:1
+    400036: P1000-62.25 in:2
+    400038: P1001-14in:1
+    400040: P1001-14in:2
+    400042: P12901:1
+    400044: P12901:2
+    400046: P12901:3
+    400048: P12901:4
+    400050: P12901:5
+    400052: P12901:6
+    400054: P1290:1
+    400056: P1290:2
+    400058: P1290:3
+    400060: P1290:4
+    400062: P1290:5
+    400064: P1290:6
+    400066: P2072A:1
+    400068: P2072A:2
+    400070: P2072A:3
+    400072: P2072A:4
+    400074: P2073A:1
+    400076: P2073A:2
+    400078: P2267:1
+    400080: P2267:2
+    400082: P2267:3
+    400084: P2267:4
+    400086: P2267:5
+    400088: P2267:6
+    400090: P2267:7
+    400092: P2267:8
+    400094: Bin
+    400096: Bin001
+    400098: BinFrame
+    400100: BinFrame2
+    400102: BinStandPlate1
+    400104: BinStandPlate2
+    2300000: Bin:003
+    2300002: Bin:2
+    2300004: BinStandPlate:1
+    2300006: BinStandPlate:2
+    2300008: P1000-16.821 in:1
+    2300010: P1000-16.821 in:2
+    2300012: P1000-20 in-Cut:1
+    2300014: P1000-20 in-Cut:2
+    2300016: P1000-20 in-Cut:3
+    2300018: P1000-20 in-Cut:4
+    2300020: P1000-22in:1
+    2300022: P1000-25:1
+    2300024: P1000-25:2
+    2300026: P1000-25:3
+    2300028: P1000-52 in:1
+    2300030: P1000-52 in:2
+    2300032: P1000-62.25 in:1
+    2300034: P1000-62.25 in:2
+    2300036: P1001-14in:1
+    2300038: P1001-14in:2
+    2300040: P12901:1
+    2300042: P12901:2
+    2300044: P12901:3
+    2300046: P12901:4
+    2300048: P12901:5
+    2300050: P12901:6
+    2300052: P1290:1
+    2300054: P1290:2
+    2300056: P1290:3
+    2300058: P1290:4
+    2300060: P1290:5
+    2300062: P1290:6
+    2300064: P2072A:1
+    2300066: P2072A:2
+    2300068: P2072A:3
+    2300070: P2072A:4
+    2300072: P2073A:1
+    2300074: P2073A:2
+    2300076: P2267:1
+    2300078: P2267:2
+    2300080: P2267:3
+    2300082: P2267:4
+    2300084: P2267:5
+    2300086: P2267:6
+    2300088: P2267:7
+    2300090: P2267:8
+    2300092: Bin
+    2300094: Bin001
+    2300096: BinFrame
+    2300098: BinFrame2
+    2300100: BinStandPlate1
+    2300102: BinStandPlate2
+    3300000: Bin:003
+    3300002: Bin:2
+    3300004: BinStandPlate:1
+    3300006: BinStandPlate:2
+    3300008: P1000-16.821 in:1
+    3300010: P1000-16.821 in:2
+    3300012: P1000-20 in-Cut:1
+    3300014: P1000-20 in-Cut:2
+    3300016: P1000-20 in-Cut:3
+    3300018: P1000-20 in-Cut:4
+    3300020: P1000-22in:1
+    3300022: P1000-25:1
+    3300024: P1000-25:2
+    3300026: P1000-25:3
+    3300028: P1000-52 in:1
+    3300030: P1000-52 in:2
+    3300032: P1000-62.25 in:1
+    3300034: P1000-62.25 in:2
+    3300036: P1001-14in:1
+    3300038: P1001-14in:2
+    3300040: P12901:1
+    3300042: P12901:2
+    3300044: P12901:3
+    3300046: P12901:4
+    3300048: P12901:5
+    3300050: P12901:6
+    3300052: P1290:1
+    3300054: P1290:2
+    3300056: P1290:3
+    3300058: P1290:4
+    3300060: P1290:5
+    3300062: P1290:6
+    3300064: P2072A:1
+    3300066: P2072A:2
+    3300068: P2072A:3
+    3300070: P2072A:4
+    3300072: P2073A:1
+    3300074: P2073A:2
+    3300076: P2267:1
+    3300078: P2267:2
+    3300080: P2267:3
+    3300082: P2267:4
+    3300084: P2267:5
+    3300086: P2267:6
+    3300088: P2267:7
+    3300090: P2267:8
+    3300092: Bin
+    3300094: Bin001
+    3300096: BinFrame
+    3300098: BinFrame2
+    3300100: BinStandPlate1
+    3300102: BinStandPlate2
+    4300000: P1290:1
+    4300002: P12901:1
+    4300004: P1000-22in:1
+    4300006: P2073A:1
+    4300008: P2073A:2
+    4300010: P1001-14in:1
+    4300012: P1001-14in:2
+    4300014: P2267:1
+    4300016: P2267:2
+    4300018: P1000-20 in-Cut:1
+    4300020: P1000-20 in-Cut:2
+    4300022: P2072A:1
+    4300024: P2072A:2
+    4300026: P1000-52 in:1
+    4300028: P1000-52 in:2
+    4300030: P1290:2
+    4300032: P1000-25:1
+    4300034: P12901:2
+    4300036: P1290:3
+    4300038: P1000-25:2
+    4300040: P12901:3
+    4300042: Bin:2
+    4300044: P2267:3
+    4300046: P2267:4
+    4300048: BinStandPlate:1
+    4300050: P1000-20 in-Cut:3
+    4300052: P2267:5
+    4300054: P2267:6
+    4300056: P1000-20 in-Cut:4
+    4300058: P1000-62.25 in:1
+    4300060: P2072A:3
+    4300062: P2072A:4
+    4300064: P1000-62.25 in:2
+    4300066: BinStandPlate:2
+    4300068: P1290:4
+    4300070: P1000-25:3
+    4300072: P12901:4
+    4300074: P2267:7
+    4300076: P2267:8
+    4300078: P12901:5
+    4300080: P1000-16.821 in:1
+    4300082: P1290:5
+    4300084: P1290:6
+    4300086: P1000-16.821 in:2
+    4300088: P12901:6
+    4300090: Bin:003
+    4300092: Bin001
+    4300094: BinStandPlate1
+    4300096: BinFrame2
+    4300098: BinStandPlate2
+    4300100: BinFrame
+    4300102: Bin
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

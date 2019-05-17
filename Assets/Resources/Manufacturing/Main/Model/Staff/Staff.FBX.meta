@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 5d389f8b5927a2d4e911485466c0a5e5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: iMike - ARM LOWER:1_LOD1
+    100002: iMike - ARM LOWER:2_LOD1
+    100004: iMike - ARM UPPER:1
+    100006: iMike - ARM UPPER:2
+    100008: iMike - FINGERS LEFT:1
+    100010: iMike - FINGERS RIGHT:1
+    100012: iMike - FOOT:1
+    100014: iMike - FOOT:2
+    100016: iMike - HAND:1
+    100018: iMike - HAND:2
+    100020: iMike - HAT:1
+    100022: iMike - HEAD:1_LOD1
+    100024: iMike - LEG LOWER:1_LOD1
+    100026: iMike - LEG LOWER:2_LOD1
+    100028: iMike - LEG UPPER:1_LOD1
+    100030: iMike - LEG UPPER:2_LOD1
+    100032: iMike - SHADES:1
+    100034: iMike - TORSO:1_LOD1
+    100036: //RootNode
+    400000: iMike - ARM LOWER:1_LOD1
+    400002: iMike - ARM LOWER:2_LOD1
+    400004: iMike - ARM UPPER:1
+    400006: iMike - ARM UPPER:2
+    400008: iMike - FINGERS LEFT:1
+    400010: iMike - FINGERS RIGHT:1
+    400012: iMike - FOOT:1
+    400014: iMike - FOOT:2
+    400016: iMike - HAND:1
+    400018: iMike - HAND:2
+    400020: iMike - HAT:1
+    400022: iMike - HEAD:1_LOD1
+    400024: iMike - LEG LOWER:1_LOD1
+    400026: iMike - LEG LOWER:2_LOD1
+    400028: iMike - LEG UPPER:1_LOD1
+    400030: iMike - LEG UPPER:2_LOD1
+    400032: iMike - SHADES:1
+    400034: iMike - TORSO:1_LOD1
+    400036: //RootNode
+    2300000: iMike - ARM LOWER:1_LOD1
+    2300002: iMike - ARM LOWER:2_LOD1
+    2300004: iMike - ARM UPPER:1
+    2300006: iMike - ARM UPPER:2
+    2300008: iMike - FINGERS LEFT:1
+    2300010: iMike - FINGERS RIGHT:1
+    2300012: iMike - FOOT:1
+    2300014: iMike - FOOT:2
+    2300016: iMike - HAND:1
+    2300018: iMike - HAND:2
+    2300020: iMike - HAT:1
+    2300022: iMike - HEAD:1_LOD1
+    2300024: iMike - LEG LOWER:1_LOD1
+    2300026: iMike - LEG LOWER:2_LOD1
+    2300028: iMike - LEG UPPER:1_LOD1
+    2300030: iMike - LEG UPPER:2_LOD1
+    2300032: iMike - SHADES:1
+    2300034: iMike - TORSO:1_LOD1
+    3300000: iMike - ARM LOWER:1_LOD1
+    3300002: iMike - ARM LOWER:2_LOD1
+    3300004: iMike - ARM UPPER:1
+    3300006: iMike - ARM UPPER:2
+    3300008: iMike - FINGERS LEFT:1
+    3300010: iMike - FINGERS RIGHT:1
+    3300012: iMike - FOOT:1
+    3300014: iMike - FOOT:2
+    3300016: iMike - HAND:1
+    3300018: iMike - HAND:2
+    3300020: iMike - HAT:1
+    3300022: iMike - HEAD:1_LOD1
+    3300024: iMike - LEG LOWER:1_LOD1
+    3300026: iMike - LEG LOWER:2_LOD1
+    3300028: iMike - LEG UPPER:1_LOD1
+    3300030: iMike - LEG UPPER:2_LOD1
+    3300032: iMike - SHADES:1
+    3300034: iMike - TORSO:1_LOD1
+    4300000: iMike - ARM UPPER:1
+    4300002: iMike - FOOT:1
+    4300004: iMike - HAND:1
+    4300006: iMike - FINGERS LEFT:1
+    4300008: iMike - ARM UPPER:2
+    4300010: iMike - FOOT:2
+    4300012: iMike - HAND:2
+    4300014: iMike - FINGERS RIGHT:1
+    4300016: iMike - SHADES:1
+    4300018: iMike - HAT:1
+    4300020: iMike - TORSO:1_LOD1
+    4300022: iMike - HEAD:1_LOD1
+    4300024: iMike - LEG UPPER:2_LOD1
+    4300026: iMike - LEG UPPER:1_LOD1
+    4300028: iMike - LEG LOWER:2_LOD1
+    4300030: iMike - LEG LOWER:1_LOD1
+    4300032: iMike - ARM LOWER:1_LOD1
+    4300034: iMike - ARM LOWER:2_LOD1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 4f6bf20d281d0d74995ffbc108f36e88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange (Dark)_iMike - ARM UPPER_1
+    second: {fileID: 2100000, guid: 6ac91fece845b4b42a5ddaf3eb1b62e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange (Dark)_iMike - TORSO_1
+    second: {fileID: 2100000, guid: f884f1d1663c33b4b9b3a5766323dfe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Paint_Glossy Wheat_A-10086CH_Clamp_1
+    second: {fileID: 2100000, guid: e62322ebc939e9d4183918da5ef41365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u5C0F\u9EA5\u8272-1_iMike - TORSO_1"
+    second: {fileID: 2100000, guid: 52d4a768fb0acc7469cc8f6b5ae3ea38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u5C0F\u9EA5\u8272_iMike - ARM UPPER_1"
+    second: {fileID: 2100000, guid: 8d40875045f27f242935bbd243fd0783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u5E73\u6ED1 - \u767D\u8272_iMike - TORSO_1"
+    second: {fileID: 2100000, guid: 7b94bbeed402aea499ff31644893dd9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6A59_iMike - TORSO_1"
+    second: {fileID: 2100000, guid: 2bbf7009648a5b24fa709ef03c4f849b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u7070\u8272_iMike - TORSO_1"
+    second: {fileID: 2100000, guid: 3ea10b0fa09a00f4f9fb8a6c70f0fee3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

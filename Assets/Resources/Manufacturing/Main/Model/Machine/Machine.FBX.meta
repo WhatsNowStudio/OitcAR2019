@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 5a25c0ddf26ce544587de5587165f2c2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BlankPlate_A:010
+    100002: BlankPlate_A:011
+    100004: Flexible Hose:033_LOD1
+    100006: Flexible Hose:035_LOD1
+    100008: Flexible Hose:036_LOD1
+    100010: Flexible Hose:037_LOD1
+    100012: Flexible Hose:038_LOD1
+    100014: Flexible Hose:039_LOD1
+    100016: Flexible Hose:040_LOD1
+    100018: Flexible Hose:041_LOD1
+    100020: Flexible Hose:042_LOD1
+    100022: //RootNode
+    100024: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 3/8 x
+      1/2:009"
+    100026: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 3/8 x
+      1/2:010"
+    100028: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 3/8 x
+      3/8:005"
+    100030: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 5/8 x
+      3/4:006"
+    100032: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 5/8 x
+      3/4:007"
+    100034: Parker A-Lok Male Taper Thread - Fractional Tube 1/2 x 3/8:009
+    100036: Parker A-Lok Male Taper Thread - Fractional Tube 1/2 x 3/8:010
+    100038: Parker A-Lok Male Taper Thread - Fractional Tube 3/4 x 1/2:005
+    100040: Parker A-Lok Male Taper Thread - Fractional Tube 3/4 x 3/4:005
+    100042: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/4:005
+    100044: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:019
+    100046: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:020
+    100048: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:021
+    100050: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:022
+    100052: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:023
+    100054: Parker FC series Flow Control half inch-2 1/2:005
+    100056: Parker Male Taper Thread 3/4:005
+    100058: Parker Muffler 3_8 male:009
+    100060: Parker Muffler 3_8 male:010
+    100062: Regulator_A_Single[1]:009
+    100064: Regulator_A_Single[1]:010
+    100066: Valve_Body_A[1]:022
+    100068: Valve_Body_A[1]:023
+    100070: Valve_Body_A[1]:024
+    100072: Valve_Body_A[1]:025
+    100074: Valve_Body_A[1]:026
+    100076: Valve_Body_A_Single:005
+    400000: BlankPlate_A:010
+    400002: BlankPlate_A:011
+    400004: Flexible Hose:033_LOD1
+    400006: Flexible Hose:035_LOD1
+    400008: Flexible Hose:036_LOD1
+    400010: Flexible Hose:037_LOD1
+    400012: Flexible Hose:038_LOD1
+    400014: Flexible Hose:039_LOD1
+    400016: Flexible Hose:040_LOD1
+    400018: Flexible Hose:041_LOD1
+    400020: Flexible Hose:042_LOD1
+    400022: //RootNode
+    400024: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 3/8 x
+      1/2:009"
+    400026: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 3/8 x
+      1/2:010"
+    400028: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 3/8 x
+      3/8:005"
+    400030: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 5/8 x
+      3/4:006"
+    400032: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 5/8 x
+      3/4:007"
+    400034: Parker A-Lok Male Taper Thread - Fractional Tube 1/2 x 3/8:009
+    400036: Parker A-Lok Male Taper Thread - Fractional Tube 1/2 x 3/8:010
+    400038: Parker A-Lok Male Taper Thread - Fractional Tube 3/4 x 1/2:005
+    400040: Parker A-Lok Male Taper Thread - Fractional Tube 3/4 x 3/4:005
+    400042: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/4:005
+    400044: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:019
+    400046: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:020
+    400048: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:021
+    400050: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:022
+    400052: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:023
+    400054: Parker FC series Flow Control half inch-2 1/2:005
+    400056: Parker Male Taper Thread 3/4:005
+    400058: Parker Muffler 3_8 male:009
+    400060: Parker Muffler 3_8 male:010
+    400062: Regulator_A_Single[1]:009
+    400064: Regulator_A_Single[1]:010
+    400066: Valve_Body_A[1]:022
+    400068: Valve_Body_A[1]:023
+    400070: Valve_Body_A[1]:024
+    400072: Valve_Body_A[1]:025
+    400074: Valve_Body_A[1]:026
+    400076: Valve_Body_A_Single:005
+    2300000: BlankPlate_A:010
+    2300002: BlankPlate_A:011
+    2300004: Flexible Hose:033_LOD1
+    2300006: Flexible Hose:035_LOD1
+    2300008: Flexible Hose:036_LOD1
+    2300010: Flexible Hose:037_LOD1
+    2300012: Flexible Hose:038_LOD1
+    2300014: Flexible Hose:039_LOD1
+    2300016: Flexible Hose:040_LOD1
+    2300018: Flexible Hose:041_LOD1
+    2300020: Flexible Hose:042_LOD1
+    2300022: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 3/8
+      x 1/2:009"
+    2300024: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 3/8
+      x 1/2:010"
+    2300026: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 3/8
+      x 3/8:005"
+    2300028: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 5/8
+      x 3/4:006"
+    2300030: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 5/8
+      x 3/4:007"
+    2300032: Parker A-Lok Male Taper Thread - Fractional Tube 1/2 x 3/8:009
+    2300034: Parker A-Lok Male Taper Thread - Fractional Tube 1/2 x 3/8:010
+    2300036: Parker A-Lok Male Taper Thread - Fractional Tube 3/4 x 1/2:005
+    2300038: Parker A-Lok Male Taper Thread - Fractional Tube 3/4 x 3/4:005
+    2300040: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/4:005
+    2300042: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:019
+    2300044: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:020
+    2300046: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:021
+    2300048: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:022
+    2300050: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:023
+    2300052: Parker FC series Flow Control half inch-2 1/2:005
+    2300054: Parker Male Taper Thread 3/4:005
+    2300056: Parker Muffler 3_8 male:009
+    2300058: Parker Muffler 3_8 male:010
+    2300060: Regulator_A_Single[1]:009
+    2300062: Regulator_A_Single[1]:010
+    2300064: Valve_Body_A[1]:022
+    2300066: Valve_Body_A[1]:023
+    2300068: Valve_Body_A[1]:024
+    2300070: Valve_Body_A[1]:025
+    2300072: Valve_Body_A[1]:026
+    2300074: Valve_Body_A_Single:005
+    3300000: BlankPlate_A:010
+    3300002: BlankPlate_A:011
+    3300004: Flexible Hose:033_LOD1
+    3300006: Flexible Hose:035_LOD1
+    3300008: Flexible Hose:036_LOD1
+    3300010: Flexible Hose:037_LOD1
+    3300012: Flexible Hose:038_LOD1
+    3300014: Flexible Hose:039_LOD1
+    3300016: Flexible Hose:040_LOD1
+    3300018: Flexible Hose:041_LOD1
+    3300020: Flexible Hose:042_LOD1
+    3300022: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 3/8
+      x 1/2:009"
+    3300024: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 3/8
+      x 1/2:010"
+    3300026: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 3/8
+      x 3/8:005"
+    3300028: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 5/8
+      x 3/4:006"
+    3300030: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 5/8
+      x 3/4:007"
+    3300032: Parker A-Lok Male Taper Thread - Fractional Tube 1/2 x 3/8:009
+    3300034: Parker A-Lok Male Taper Thread - Fractional Tube 1/2 x 3/8:010
+    3300036: Parker A-Lok Male Taper Thread - Fractional Tube 3/4 x 1/2:005
+    3300038: Parker A-Lok Male Taper Thread - Fractional Tube 3/4 x 3/4:005
+    3300040: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/4:005
+    3300042: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:019
+    3300044: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:020
+    3300046: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:021
+    3300048: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:022
+    3300050: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:023
+    3300052: Parker FC series Flow Control half inch-2 1/2:005
+    3300054: Parker Male Taper Thread 3/4:005
+    3300056: Parker Muffler 3_8 male:009
+    3300058: Parker Muffler 3_8 male:010
+    3300060: Regulator_A_Single[1]:009
+    3300062: Regulator_A_Single[1]:010
+    3300064: Valve_Body_A[1]:022
+    3300066: Valve_Body_A[1]:023
+    3300068: Valve_Body_A[1]:024
+    3300070: Valve_Body_A[1]:025
+    3300072: Valve_Body_A[1]:026
+    3300074: Valve_Body_A_Single:005
+    4300000: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 5/8
+      x 3/4:007"
+    4300002: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 5/8
+      x 3/4:006"
+    4300004: Parker A-Lok Male Taper Thread - Fractional Tube 1/2 x 3/8:009
+    4300006: Parker A-Lok Male Taper Thread - Fractional Tube 1/2 x 3/8:010
+    4300008: Parker FC series Flow Control half inch-2 1/2:005
+    4300010: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 3/8
+      x 1/2:009"
+    4300012: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 3/8
+      x 1/2:010"
+    4300014: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:020
+    4300016: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:023
+    4300018: BlankPlate_A:010
+    4300020: BlankPlate_A:011
+    4300022: Parker Muffler 3_8 male:009
+    4300024: Parker Muffler 3_8 male:010
+    4300026: Regulator_A_Single[1]:009
+    4300028: Regulator_A_Single[1]:010
+    4300030: Valve_Body_A[1]:022
+    4300032: Valve_Body_A[1]:023
+    4300034: Valve_Body_A[1]:024
+    4300036: Valve_Body_A[1]:025
+    4300038: Valve_Body_A[1]:026
+    4300040: Valve_Body_A_Single:005
+    4300042: Parker A-Lok Male Taper Thread - Fractional Tube 3/4 x 1/2:005
+    4300044: Parker A-Lok Male Taper Thread - Fractional Tube 3/4 x 3/4:005
+    4300046: "Parker A-Lok Male Taper Thread - 90\xB0 Elbow - Fractional Tube 3/8
+      x 3/8:005"
+    4300048: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:021
+    4300050: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:022
+    4300052: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/4:005
+    4300054: Parker A-Lok Male Taper Thread - Fractional Tube 3/8 x 3/8:019
+    4300056: Parker Male Taper Thread 3/4:005
+    4300058: Flexible Hose:040_LOD1
+    4300060: Flexible Hose:036_LOD1
+    4300062: Flexible Hose:033_LOD1
+    4300064: Flexible Hose:035_LOD1
+    4300066: Flexible Hose:041_LOD1
+    4300068: Flexible Hose:038_LOD1
+    4300070: Flexible Hose:037_LOD1
+    4300072: Flexible Hose:039_LOD1
+    4300074: Flexible Hose:042_LOD1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 72bb3c2faaa37d54fbb1184225fa2b23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 3bde75f9230765e43a02edb35006e047, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 6ce97bec6c632c74199fdeaa5009739d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1025'
+    second: {fileID: 2100000, guid: 86c6fa8bd8cc49d46a4ac59fad417e20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u4EAE\u9762 - \u9ED1\u8272_Parker FC series Flow Control half inch-2
+        1_2_1"
+    second: {fileID: 2100000, guid: 78be27f6e8c13a241bb2a9d8c17f0b00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u4EAE\u9762 - \u9ED1\u8272_Regulator_A_Single[1]_1"
+    second: {fileID: 2100000, guid: 087f51f3f22e99141a60d4d32ec62e32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u5E73\u6ED1 - \u6DF1\u68EE\u6797\u7DA0_Parker FC series Flow Control
+        half inch-2 1_2_1"
+    second: {fileID: 2100000, guid: 79e9bbf0a0af4cc43ad47ffd1de58c24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6DE1\u7070\u8272_BlankPlate_A_1"
+    second: {fileID: 2100000, guid: 1fda976c5b4fa134f8a732bf79026b98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6DE1\u7070\u8272_Parker Muffler 3_8 male_1"
+    second: {fileID: 2100000, guid: aa8de6ca1e8379943b520fb6e97b3103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6DE1\u7070\u8272_Regulator_A_Single[1]_1"
+    second: {fileID: 2100000, guid: aaf8d0a2d8269d04189cb62b3a391e40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6DF1\u7070\u8272_BlankPlate_A_1"
+    second: {fileID: 2100000, guid: d830889f1ea8c9f43bd23873a69ad737, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6DF1\u7070\u8272_Regulator_A_Single[1]_1"
+    second: {fileID: 2100000, guid: efe690d4d2f6cd94490e6eafb471a79a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u92C1 - \u5E73\u9762_Regulator_A_Single[1]_1"
+    second: {fileID: 2100000, guid: 9ab4b7b017cfb8d4aa599e153da3fb9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u9EC3_Parker Muffler 3_8 male_1"
+    second: {fileID: 2100000, guid: a2a1977ea79094b418afc394c928175f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

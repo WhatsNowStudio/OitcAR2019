@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: 077490489d0969c4c89979ce90d15f89
+timeCreated: 1492424742
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 18 x 35:30
+    100002: 18 x 35:33
+    100004: 18 x 35:46
+    100006: 18 x 35:54
+    100008: 34 x 35:31
+    100010: 34 x 35:32
+    100012: 34 x 35:45
+    100014: 34 x 35:55
+    100016: 6-8 x 15:29
+    100018: 6-8 x 15:44
+    100020: 6-8 x 25:61
+    100022: 6-8 x 29:57
+    100024: 6-8 x 29:58
+    100026: 6-8 x 35:11
+    100028: 6-8 x 35:15
+    100030: 6-8 x 35:48
+    100032: 6-8 x 35:52
+    100034: 6-8 x 35:53
+    100036: 6-8 x 35:59
+    100038: 6-8 x 39:18
+    100040: 6-8 x 39:19
+    100042: 6-8 x 39:36
+    100044: 6-8 x 39:39
+    100046: 6-8 x 39:60
+    100048: 6-8 x 45:1
+    100050: 6-8 x 45:14
+    100052: 6-8 x 45:25
+    100054: 6-8 x 45:28
+    100056: 6-8 x 45:3
+    100058: 6-8 x 45:34
+    100060: 6-8 x 45:35
+    100062: 6-8 x 45:37
+    100064: 6-8 x 45:38
+    100066: 6-8 x 45:40
+    100068: 6-8 x 45:41
+    100070: 6-8 x 45:43
+    100072: 6-8 x 45:49
+    100074: 6-8 x 45:5
+    100076: 6-8 x 45:56
+    100078: 6-8 x 45:6
+    100080: 6-8 x 45:9
+    100082: 6-8x45-Gate:1
+    100084: 6-8x45-Gate:2
+    100086: 6-8x45-Gate:3
+    100088: 6-8x45-Gate:4
+    100090: 800T-FX6A5:1
+    100092: 800T-FX6A5:1 1
+    100094: 800T-FX6A5:1 10
+    100096: 800T-FX6A5:1 2
+    100098: 800T-FX6A5:1 3
+    100100: 800T-FX6A5:1 4
+    100102: 800T-FX6A5:1 5
+    100104: 800T-FX6A5:1 6
+    100106: 800T-FX6A5:1 7
+    100108: 800T-FX6A5:1 8
+    100110: 800T-FX6A5:1 9
+    100112: 800T-FX6A5_01:1
+    100114: 800T-FX6A5_01:1 1
+    100116: 800T-FX6A5_01:1 10
+    100118: 800T-FX6A5_01:1 2
+    100120: 800T-FX6A5_01:1 3
+    100122: 800T-FX6A5_01:1 4
+    100124: 800T-FX6A5_01:1 5
+    100126: 800T-FX6A5_01:1 6
+    100128: 800T-FX6A5_01:1 7
+    100130: 800T-FX6A5_01:1 8
+    100132: 800T-FX6A5_01:1 9
+    100134: 800T-FX6A5_02:1
+    100136: 800T-FX6A5_02:1 1
+    100138: 800T-FX6A5_02:1 10
+    100140: 800T-FX6A5_02:1 2
+    100142: 800T-FX6A5_02:1 3
+    100144: 800T-FX6A5_02:1 4
+    100146: 800T-FX6A5_02:1 5
+    100148: 800T-FX6A5_02:1 6
+    100150: 800T-FX6A5_02:1 7
+    100152: 800T-FX6A5_02:1 8
+    100154: 800T-FX6A5_02:1 9
+    100156: A-10086CH:1
+    100158: A-10086CH:1 1
+    100160: A-10086CH:1 2
+    100162: A-10086CH:1 3
+    100164: A-10086CH:1 4
+    100166: A-10086CH:1 5
+    100168: A-10086CH:1 6
+    100170: A-10086CH:1 7
+    100172: A-10086CH:1 8
+    100174: a303608lp-Screens:1
+    100176: a84xm7818ftc:1
+    100178: a84xm7818ftc:2
+    100180: Amber-Button-001:1
+    100182: Amber-Button-001:1 1
+    100184: Amber-Button-001:1 10
+    100186: Amber-Button-001:1 11
+    100188: Amber-Button-001:1 12
+    100190: Amber-Button-001:1 2
+    100192: Amber-Button-001:1 3
+    100194: Amber-Button-001:1 4
+    100196: Amber-Button-001:1 5
+    100198: Amber-Button-001:1 6
+    100200: Amber-Button-001:1 7
+    100202: Amber-Button-001:1 8
+    100204: Amber-Button-001:1 9
+    100206: Amber-Button-002:1
+    100208: Amber-Button-002:1 1
+    100210: Amber-Button-002:1 10
+    100212: Amber-Button-002:1 2
+    100214: Amber-Button-002:1 3
+    100216: Amber-Button-002:1 4
+    100218: Amber-Button-002:1 5
+    100220: Amber-Button-002:1 6
+    100222: Amber-Button-002:1 7
+    100224: Amber-Button-002:1 8
+    100226: Amber-Button-002:1 9
+    100228: Amber-Button-003:1
+    100230: Amber-Button-003:1 1
+    100232: Amber-Button-003:1 10
+    100234: Amber-Button-003:1 11
+    100236: Amber-Button-003:1 12
+    100238: Amber-Button-003:1 2
+    100240: Amber-Button-003:1 3
+    100242: Amber-Button-003:1 4
+    100244: Amber-Button-003:1 5
+    100246: Amber-Button-003:1 6
+    100248: Amber-Button-003:1 7
+    100250: Amber-Button-003:1 8
+    100252: Amber-Button-003:1 9
+    100254: Amber-Button:1
+    100256: Amber-Button:1 1
+    100258: Amber-Button:1 10
+    100260: Amber-Button:1 2
+    100262: Amber-Button:1 3
+    100264: Amber-Button:1 4
+    100266: Amber-Button:1 5
+    100268: Amber-Button:1 6
+    100270: Amber-Button:1 7
+    100272: Amber-Button:1 8
+    100274: Amber-Button:1 9
+    100276: APF-6FT-8IN:1
+    100278: APF-6FT-8IN:10
+    100280: APF-6FT-8IN:11
+    100282: APF-6FT-8IN:12
+    100284: APF-6FT-8IN:13
+    100286: APF-6FT-8IN:15
+    100288: APF-6FT-8IN:16
+    100290: APF-6FT-8IN:18
+    100292: APF-6FT-8IN:19
+    100294: APF-6FT-8IN:2
+    100296: APF-6FT-8IN:20
+    100298: APF-6FT-8IN:21
+    100300: APF-6FT-8IN:24
+    100302: APF-6FT-8IN:25
+    100304: APF-6FT-8IN:26
+    100306: APF-6FT-8IN:3
+    100308: APF-6FT-8IN:30
+    100310: APF-6FT-8IN:34
+    100312: APF-6FT-8IN:35
+    100314: APF-6FT-8IN:36
+    100316: APF-6FT-8IN:37
+    100318: APF-6FT-8IN:38
+    100320: APF-6FT-8IN:39
+    100322: APF-6FT-8IN:4
+    100324: APF-6FT-8IN:40
+    100326: APF-6FT-8IN:41
+    100328: APF-6FT-8IN:42
+    100330: APF-6FT-8IN:43
+    100332: APF-6FT-8IN:44
+    100334: APF-6FT-8IN:45
+    100336: APF-6FT-8IN:46
+    100338: APF-6FT-8IN:47
+    100340: APF-6FT-8IN:48
+    100342: APF-6FT-8IN:49
+    100344: APF-6FT-8IN:5
+    100346: APF-6FT-8IN:50
+    100348: APF-6FT-8IN:51
+    100350: APF-6FT-8IN:52
+    100352: APF-6FT-8IN:53
+    100354: APF-6FT-8IN:54
+    100356: APF-6FT-8IN:6
+    100358: APF-6FT-8IN:9
+    100360: Base-001:1
+    100362: Base-001:1 1
+    100364: Base-001:1 2
+    100366: Base-001:1 3
+    100368: Base-001:1 4
+    100370: Base-001:1 5
+    100372: Base-001:1 6
+    100374: Base-001:1 7
+    100376: Base-001:1 8
+    100378: Blue-Button-002:1
+    100380: Blue-Button-002:1 1
+    100382: Blue-Button:1
+    100384: Blue-Button:1 1
+    100386: ccs2ehdlg:1
+    100388: ccs2ehdlg:1 1
+    100390: ccs2rblg-01:1
+    100392: ccs2rblg-01:1 1
+    100394: ccs2rblg-02:1
+    100396: ccs2rblg-02:1 1
+    100398: ccs2rblg:1
+    100400: ccs2rblg:1 1
+    100402: ccs2sjlg-01:1
+    100404: ccs2sjlg-01:1 1
+    100406: ccs2sjlg-02:1
+    100408: ccs2sjlg-02:1 1
+    100410: ccs2sjlg:1
+    100412: ccs2sjlg:1 1
+    100414: ccs2t5-02:1
+    100416: ccs2t5-02:1 1
+    100418: ccs2t5-03:1
+    100420: ccs2t5-03:1 1
+    100422: csd16168:1
+    100424: csd16168:1 1
+    100426: D-625-001:1
+    100428: D-625-001:2
+    100430: D-625-001:3
+    100432: D-625-001:4
+    100434: D-625-002:1
+    100436: D-625-002:1 1
+    100438: D-625-002:1 2
+    100440: D-625-002:1 3
+    100442: D-625-800:1
+    100444: D-625-800:2
+    100446: D-625-800:3
+    100448: D-625-800:4
+    100450: D-625-801:1
+    100452: D-625-801:2
+    100454: D-625-801:3
+    100456: D-625-801:4
+    100458: D-625-801:5
+    100460: D-625-801:6
+    100462: D-625-801:7
+    100464: D-625-801:8
+    100466: D-625-801:9
+    100468: //RootNode
+    100470: Fence
+    100472: GreenLight:1
+    100474: GreenLight:1 1
+    100476: GreenLight:1 2
+    100478: GreenLight:1 3
+    100480: GreenLight:1 4
+    100482: GreenLight:1 5
+    100484: GreenLight:1 6
+    100486: GreenLight:1 7
+    100488: GreenLight:1 8
+    100490: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1
+    100492: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1 1
+    100494: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1 2
+    100496: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1 3
+    100498: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2
+    100500: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2 1
+    100502: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2 2
+    100504: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2 3
+    100506: ISO 4762 M5 x 40:1
+    100508: ISO 4762 M5 x 40:1 1
+    100510: ISO 4762 M5 x 40:1 2
+    100512: ISO 4762 M5 x 40:1 3
+    100514: ISO 4762 M5 x 40:2
+    100516: ISO 4762 M5 x 40:2 1
+    100518: ISO 4762 M5 x 40:2 2
+    100520: ISO 4762 M5 x 40:2 3
+    100522: ISO 4762 M5 x 40:3
+    100524: ISO 4762 M5 x 40:3 1
+    100526: ISO 4762 M5 x 40:3 2
+    100528: ISO 4762 M5 x 40:3 3
+    100530: ISO 4762 M5 x 40:4
+    100532: ISO 4762 M5 x 40:4 1
+    100534: ISO 4762 M5 x 40:4 2
+    100536: ISO 4762 M5 x 40:4 3
+    100538: Laser S100-S200 Single part 101:1
+    100540: Light-Top:1
+    100542: Light-Top:1 1
+    100544: Light-Top:1 2
+    100546: Light-Top:1 3
+    100548: Light-Top:1 4
+    100550: Light-Top:1 5
+    100552: Light-Top:1 6
+    100554: Light-Top:1 7
+    100556: Light-Top:1 8
+    100558: LightSpacer:1
+    100560: LightSpacer:1 1
+    100562: LightSpacer:1 2
+    100564: LightSpacer:1 3
+    100566: LightSpacer:1 4
+    100568: LightSpacer:1 5
+    100570: LightSpacer:1 6
+    100572: LightSpacer:1 7
+    100574: LightSpacer:1 8
+    100576: Mount-001:1
+    100578: Mount-001:1 1
+    100580: RedLight-001:1
+    100582: RedLight-001:1 1
+    100584: RedLight-001:1 2
+    100586: RedLight-001:1 3
+    100588: RedLight-001:1 4
+    100590: RedLight-001:1 5
+    100592: RedLight-001:1 6
+    100594: RedLight-001:1 7
+    100596: RedLight-001:1 8
+    100598: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+    100600: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+      1
+    100602: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+      2
+    100604: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+      3
+    100606: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+    100608: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+      1
+    100610: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+      2
+    100612: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+      3
+    100614: screen:1
+    100616: screen:2
+    100618: SL-C32H-a:1
+    100620: SL-C32H-a:1 1
+    100622: SL-C32H-a:1 10
+    100624: SL-C32H-a:1 11
+    100626: SL-C32H-a:1 12
+    100628: SL-C32H-a:1 13
+    100630: SL-C32H-a:1 14
+    100632: SL-C32H-a:1 15
+    100634: SL-C32H-a:1 16
+    100636: SL-C32H-a:1 17
+    100638: SL-C32H-a:1 18
+    100640: SL-C32H-a:1 2
+    100642: SL-C32H-a:1 3
+    100644: SL-C32H-a:1 4
+    100646: SL-C32H-a:1 5
+    100648: SL-C32H-a:1 6
+    100650: SL-C32H-a:1 7
+    100652: SL-C32H-a:1 8
+    100654: SL-C32H-a:1 9
+    100656: SL-C32H-SCREEN ASSY-02:1
+    100658: SL-C32H-SCREEN ASSY-02:2
+    100660: SL-C32H-SCREEN ASSY-02:3
+    100662: SL-C32H-SCREEN ASSY-02:4
+    100664: SL-C32H:1
+    100666: SL-C32H:1 1
+    100668: SL-C32H:1 2
+    100670: SL-C32H:1 3
+    100672: SL-C32H:2
+    100674: SL-C32H:2 1
+    100676: SL-C32H:2 2
+    100678: SL-C32H:2 3
+    100680: StackLights:1
+    100682: StackLights:1 1
+    100684: StackLights:1 2
+    100686: StackLights:1 3
+    100688: StackLights:1 4
+    100690: StackLights:1 5
+    100692: StackLights:1 6
+    100694: StackLights:1 7
+    100696: StackLights:1 8
+    100698: TL8012:1
+    100700: TL8012:2
+    100702: TL8012:3
+    100704: TL8012:4
+    100706: TL8012_Key-Latch:1
+    100708: TL8012_Key-Latch:1 1
+    100710: TL8012_Key-Latch:1 2
+    100712: TL8012_Key-Latch:1 3
+    400000: 18 x 35:30
+    400002: 18 x 35:33
+    400004: 18 x 35:46
+    400006: 18 x 35:54
+    400008: 34 x 35:31
+    400010: 34 x 35:32
+    400012: 34 x 35:45
+    400014: 34 x 35:55
+    400016: 6-8 x 15:29
+    400018: 6-8 x 15:44
+    400020: 6-8 x 25:61
+    400022: 6-8 x 29:57
+    400024: 6-8 x 29:58
+    400026: 6-8 x 35:11
+    400028: 6-8 x 35:15
+    400030: 6-8 x 35:48
+    400032: 6-8 x 35:52
+    400034: 6-8 x 35:53
+    400036: 6-8 x 35:59
+    400038: 6-8 x 39:18
+    400040: 6-8 x 39:19
+    400042: 6-8 x 39:36
+    400044: 6-8 x 39:39
+    400046: 6-8 x 39:60
+    400048: 6-8 x 45:1
+    400050: 6-8 x 45:14
+    400052: 6-8 x 45:25
+    400054: 6-8 x 45:28
+    400056: 6-8 x 45:3
+    400058: 6-8 x 45:34
+    400060: 6-8 x 45:35
+    400062: 6-8 x 45:37
+    400064: 6-8 x 45:38
+    400066: 6-8 x 45:40
+    400068: 6-8 x 45:41
+    400070: 6-8 x 45:43
+    400072: 6-8 x 45:49
+    400074: 6-8 x 45:5
+    400076: 6-8 x 45:56
+    400078: 6-8 x 45:6
+    400080: 6-8 x 45:9
+    400082: 6-8x45-Gate:1
+    400084: 6-8x45-Gate:2
+    400086: 6-8x45-Gate:3
+    400088: 6-8x45-Gate:4
+    400090: 800T-FX6A5:1
+    400092: 800T-FX6A5:1 1
+    400094: 800T-FX6A5:1 10
+    400096: 800T-FX6A5:1 2
+    400098: 800T-FX6A5:1 3
+    400100: 800T-FX6A5:1 4
+    400102: 800T-FX6A5:1 5
+    400104: 800T-FX6A5:1 6
+    400106: 800T-FX6A5:1 7
+    400108: 800T-FX6A5:1 8
+    400110: 800T-FX6A5:1 9
+    400112: 800T-FX6A5_01:1
+    400114: 800T-FX6A5_01:1 1
+    400116: 800T-FX6A5_01:1 10
+    400118: 800T-FX6A5_01:1 2
+    400120: 800T-FX6A5_01:1 3
+    400122: 800T-FX6A5_01:1 4
+    400124: 800T-FX6A5_01:1 5
+    400126: 800T-FX6A5_01:1 6
+    400128: 800T-FX6A5_01:1 7
+    400130: 800T-FX6A5_01:1 8
+    400132: 800T-FX6A5_01:1 9
+    400134: 800T-FX6A5_02:1
+    400136: 800T-FX6A5_02:1 1
+    400138: 800T-FX6A5_02:1 10
+    400140: 800T-FX6A5_02:1 2
+    400142: 800T-FX6A5_02:1 3
+    400144: 800T-FX6A5_02:1 4
+    400146: 800T-FX6A5_02:1 5
+    400148: 800T-FX6A5_02:1 6
+    400150: 800T-FX6A5_02:1 7
+    400152: 800T-FX6A5_02:1 8
+    400154: 800T-FX6A5_02:1 9
+    400156: A-10086CH:1
+    400158: A-10086CH:1 1
+    400160: A-10086CH:1 2
+    400162: A-10086CH:1 3
+    400164: A-10086CH:1 4
+    400166: A-10086CH:1 5
+    400168: A-10086CH:1 6
+    400170: A-10086CH:1 7
+    400172: A-10086CH:1 8
+    400174: a303608lp-Screens:1
+    400176: a84xm7818ftc:1
+    400178: a84xm7818ftc:2
+    400180: Amber-Button-001:1
+    400182: Amber-Button-001:1 1
+    400184: Amber-Button-001:1 10
+    400186: Amber-Button-001:1 11
+    400188: Amber-Button-001:1 12
+    400190: Amber-Button-001:1 2
+    400192: Amber-Button-001:1 3
+    400194: Amber-Button-001:1 4
+    400196: Amber-Button-001:1 5
+    400198: Amber-Button-001:1 6
+    400200: Amber-Button-001:1 7
+    400202: Amber-Button-001:1 8
+    400204: Amber-Button-001:1 9
+    400206: Amber-Button-002:1
+    400208: Amber-Button-002:1 1
+    400210: Amber-Button-002:1 10
+    400212: Amber-Button-002:1 2
+    400214: Amber-Button-002:1 3
+    400216: Amber-Button-002:1 4
+    400218: Amber-Button-002:1 5
+    400220: Amber-Button-002:1 6
+    400222: Amber-Button-002:1 7
+    400224: Amber-Button-002:1 8
+    400226: Amber-Button-002:1 9
+    400228: Amber-Button-003:1
+    400230: Amber-Button-003:1 1
+    400232: Amber-Button-003:1 10
+    400234: Amber-Button-003:1 11
+    400236: Amber-Button-003:1 12
+    400238: Amber-Button-003:1 2
+    400240: Amber-Button-003:1 3
+    400242: Amber-Button-003:1 4
+    400244: Amber-Button-003:1 5
+    400246: Amber-Button-003:1 6
+    400248: Amber-Button-003:1 7
+    400250: Amber-Button-003:1 8
+    400252: Amber-Button-003:1 9
+    400254: Amber-Button:1
+    400256: Amber-Button:1 1
+    400258: Amber-Button:1 10
+    400260: Amber-Button:1 2
+    400262: Amber-Button:1 3
+    400264: Amber-Button:1 4
+    400266: Amber-Button:1 5
+    400268: Amber-Button:1 6
+    400270: Amber-Button:1 7
+    400272: Amber-Button:1 8
+    400274: Amber-Button:1 9
+    400276: APF-6FT-8IN:1
+    400278: APF-6FT-8IN:10
+    400280: APF-6FT-8IN:11
+    400282: APF-6FT-8IN:12
+    400284: APF-6FT-8IN:13
+    400286: APF-6FT-8IN:15
+    400288: APF-6FT-8IN:16
+    400290: APF-6FT-8IN:18
+    400292: APF-6FT-8IN:19
+    400294: APF-6FT-8IN:2
+    400296: APF-6FT-8IN:20
+    400298: APF-6FT-8IN:21
+    400300: APF-6FT-8IN:24
+    400302: APF-6FT-8IN:25
+    400304: APF-6FT-8IN:26
+    400306: APF-6FT-8IN:3
+    400308: APF-6FT-8IN:30
+    400310: APF-6FT-8IN:34
+    400312: APF-6FT-8IN:35
+    400314: APF-6FT-8IN:36
+    400316: APF-6FT-8IN:37
+    400318: APF-6FT-8IN:38
+    400320: APF-6FT-8IN:39
+    400322: APF-6FT-8IN:4
+    400324: APF-6FT-8IN:40
+    400326: APF-6FT-8IN:41
+    400328: APF-6FT-8IN:42
+    400330: APF-6FT-8IN:43
+    400332: APF-6FT-8IN:44
+    400334: APF-6FT-8IN:45
+    400336: APF-6FT-8IN:46
+    400338: APF-6FT-8IN:47
+    400340: APF-6FT-8IN:48
+    400342: APF-6FT-8IN:49
+    400344: APF-6FT-8IN:5
+    400346: APF-6FT-8IN:50
+    400348: APF-6FT-8IN:51
+    400350: APF-6FT-8IN:52
+    400352: APF-6FT-8IN:53
+    400354: APF-6FT-8IN:54
+    400356: APF-6FT-8IN:6
+    400358: APF-6FT-8IN:9
+    400360: Base-001:1
+    400362: Base-001:1 1
+    400364: Base-001:1 2
+    400366: Base-001:1 3
+    400368: Base-001:1 4
+    400370: Base-001:1 5
+    400372: Base-001:1 6
+    400374: Base-001:1 7
+    400376: Base-001:1 8
+    400378: Blue-Button-002:1
+    400380: Blue-Button-002:1 1
+    400382: Blue-Button:1
+    400384: Blue-Button:1 1
+    400386: ccs2ehdlg:1
+    400388: ccs2ehdlg:1 1
+    400390: ccs2rblg-01:1
+    400392: ccs2rblg-01:1 1
+    400394: ccs2rblg-02:1
+    400396: ccs2rblg-02:1 1
+    400398: ccs2rblg:1
+    400400: ccs2rblg:1 1
+    400402: ccs2sjlg-01:1
+    400404: ccs2sjlg-01:1 1
+    400406: ccs2sjlg-02:1
+    400408: ccs2sjlg-02:1 1
+    400410: ccs2sjlg:1
+    400412: ccs2sjlg:1 1
+    400414: ccs2t5-02:1
+    400416: ccs2t5-02:1 1
+    400418: ccs2t5-03:1
+    400420: ccs2t5-03:1 1
+    400422: csd16168:1
+    400424: csd16168:1 1
+    400426: D-625-001:1
+    400428: D-625-001:2
+    400430: D-625-001:3
+    400432: D-625-001:4
+    400434: D-625-002:1
+    400436: D-625-002:1 1
+    400438: D-625-002:1 2
+    400440: D-625-002:1 3
+    400442: D-625-800:1
+    400444: D-625-800:2
+    400446: D-625-800:3
+    400448: D-625-800:4
+    400450: D-625-801:1
+    400452: D-625-801:2
+    400454: D-625-801:3
+    400456: D-625-801:4
+    400458: D-625-801:5
+    400460: D-625-801:6
+    400462: D-625-801:7
+    400464: D-625-801:8
+    400466: D-625-801:9
+    400468: //RootNode
+    400470: Fence
+    400472: GreenLight:1
+    400474: GreenLight:1 1
+    400476: GreenLight:1 2
+    400478: GreenLight:1 3
+    400480: GreenLight:1 4
+    400482: GreenLight:1 5
+    400484: GreenLight:1 6
+    400486: GreenLight:1 7
+    400488: GreenLight:1 8
+    400490: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1
+    400492: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1 1
+    400494: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1 2
+    400496: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1 3
+    400498: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2
+    400500: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2 1
+    400502: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2 2
+    400504: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2 3
+    400506: ISO 4762 M5 x 40:1
+    400508: ISO 4762 M5 x 40:1 1
+    400510: ISO 4762 M5 x 40:1 2
+    400512: ISO 4762 M5 x 40:1 3
+    400514: ISO 4762 M5 x 40:2
+    400516: ISO 4762 M5 x 40:2 1
+    400518: ISO 4762 M5 x 40:2 2
+    400520: ISO 4762 M5 x 40:2 3
+    400522: ISO 4762 M5 x 40:3
+    400524: ISO 4762 M5 x 40:3 1
+    400526: ISO 4762 M5 x 40:3 2
+    400528: ISO 4762 M5 x 40:3 3
+    400530: ISO 4762 M5 x 40:4
+    400532: ISO 4762 M5 x 40:4 1
+    400534: ISO 4762 M5 x 40:4 2
+    400536: ISO 4762 M5 x 40:4 3
+    400538: Laser S100-S200 Single part 101:1
+    400540: Light-Top:1
+    400542: Light-Top:1 1
+    400544: Light-Top:1 2
+    400546: Light-Top:1 3
+    400548: Light-Top:1 4
+    400550: Light-Top:1 5
+    400552: Light-Top:1 6
+    400554: Light-Top:1 7
+    400556: Light-Top:1 8
+    400558: LightSpacer:1
+    400560: LightSpacer:1 1
+    400562: LightSpacer:1 2
+    400564: LightSpacer:1 3
+    400566: LightSpacer:1 4
+    400568: LightSpacer:1 5
+    400570: LightSpacer:1 6
+    400572: LightSpacer:1 7
+    400574: LightSpacer:1 8
+    400576: Mount-001:1
+    400578: Mount-001:1 1
+    400580: RedLight-001:1
+    400582: RedLight-001:1 1
+    400584: RedLight-001:1 2
+    400586: RedLight-001:1 3
+    400588: RedLight-001:1 4
+    400590: RedLight-001:1 5
+    400592: RedLight-001:1 6
+    400594: RedLight-001:1 7
+    400596: RedLight-001:1 8
+    400598: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+    400600: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+      1
+    400602: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+      2
+    400604: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+      3
+    400606: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+    400608: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+      1
+    400610: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+      2
+    400612: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+      3
+    400614: screen:1
+    400616: screen:2
+    400618: SL-C32H-a:1
+    400620: SL-C32H-a:1 1
+    400622: SL-C32H-a:1 10
+    400624: SL-C32H-a:1 11
+    400626: SL-C32H-a:1 12
+    400628: SL-C32H-a:1 13
+    400630: SL-C32H-a:1 14
+    400632: SL-C32H-a:1 15
+    400634: SL-C32H-a:1 16
+    400636: SL-C32H-a:1 17
+    400638: SL-C32H-a:1 18
+    400640: SL-C32H-a:1 2
+    400642: SL-C32H-a:1 3
+    400644: SL-C32H-a:1 4
+    400646: SL-C32H-a:1 5
+    400648: SL-C32H-a:1 6
+    400650: SL-C32H-a:1 7
+    400652: SL-C32H-a:1 8
+    400654: SL-C32H-a:1 9
+    400656: SL-C32H-SCREEN ASSY-02:1
+    400658: SL-C32H-SCREEN ASSY-02:2
+    400660: SL-C32H-SCREEN ASSY-02:3
+    400662: SL-C32H-SCREEN ASSY-02:4
+    400664: SL-C32H:1
+    400666: SL-C32H:1 1
+    400668: SL-C32H:1 2
+    400670: SL-C32H:1 3
+    400672: SL-C32H:2
+    400674: SL-C32H:2 1
+    400676: SL-C32H:2 2
+    400678: SL-C32H:2 3
+    400680: StackLights:1
+    400682: StackLights:1 1
+    400684: StackLights:1 2
+    400686: StackLights:1 3
+    400688: StackLights:1 4
+    400690: StackLights:1 5
+    400692: StackLights:1 6
+    400694: StackLights:1 7
+    400696: StackLights:1 8
+    400698: TL8012:1
+    400700: TL8012:2
+    400702: TL8012:3
+    400704: TL8012:4
+    400706: TL8012_Key-Latch:1
+    400708: TL8012_Key-Latch:1 1
+    400710: TL8012_Key-Latch:1 2
+    400712: TL8012_Key-Latch:1 3
+    2300000: 18 x 35:30
+    2300002: 18 x 35:33
+    2300004: 18 x 35:46
+    2300006: 18 x 35:54
+    2300008: 34 x 35:31
+    2300010: 34 x 35:32
+    2300012: 34 x 35:45
+    2300014: 34 x 35:55
+    2300016: 6-8 x 15:29
+    2300018: 6-8 x 15:44
+    2300020: 6-8 x 25:61
+    2300022: 6-8 x 29:57
+    2300024: 6-8 x 29:58
+    2300026: 6-8 x 35:11
+    2300028: 6-8 x 35:15
+    2300030: 6-8 x 35:48
+    2300032: 6-8 x 35:52
+    2300034: 6-8 x 35:53
+    2300036: 6-8 x 35:59
+    2300038: 6-8 x 39:18
+    2300040: 6-8 x 39:19
+    2300042: 6-8 x 39:36
+    2300044: 6-8 x 39:39
+    2300046: 6-8 x 39:60
+    2300048: 6-8 x 45:1
+    2300050: 6-8 x 45:14
+    2300052: 6-8 x 45:25
+    2300054: 6-8 x 45:28
+    2300056: 6-8 x 45:3
+    2300058: 6-8 x 45:34
+    2300060: 6-8 x 45:35
+    2300062: 6-8 x 45:37
+    2300064: 6-8 x 45:38
+    2300066: 6-8 x 45:40
+    2300068: 6-8 x 45:41
+    2300070: 6-8 x 45:43
+    2300072: 6-8 x 45:49
+    2300074: 6-8 x 45:5
+    2300076: 6-8 x 45:56
+    2300078: 6-8 x 45:6
+    2300080: 6-8 x 45:9
+    2300082: 6-8x45-Gate:1
+    2300084: 6-8x45-Gate:2
+    2300086: 6-8x45-Gate:3
+    2300088: 6-8x45-Gate:4
+    2300090: 800T-FX6A5_01:1
+    2300092: 800T-FX6A5_01:1 1
+    2300094: 800T-FX6A5_01:1 10
+    2300096: 800T-FX6A5_01:1 2
+    2300098: 800T-FX6A5_01:1 3
+    2300100: 800T-FX6A5_01:1 4
+    2300102: 800T-FX6A5_01:1 5
+    2300104: 800T-FX6A5_01:1 6
+    2300106: 800T-FX6A5_01:1 7
+    2300108: 800T-FX6A5_01:1 8
+    2300110: 800T-FX6A5_01:1 9
+    2300112: 800T-FX6A5_02:1
+    2300114: 800T-FX6A5_02:1 1
+    2300116: 800T-FX6A5_02:1 10
+    2300118: 800T-FX6A5_02:1 2
+    2300120: 800T-FX6A5_02:1 3
+    2300122: 800T-FX6A5_02:1 4
+    2300124: 800T-FX6A5_02:1 5
+    2300126: 800T-FX6A5_02:1 6
+    2300128: 800T-FX6A5_02:1 7
+    2300130: 800T-FX6A5_02:1 8
+    2300132: 800T-FX6A5_02:1 9
+    2300134: A-10086CH:1
+    2300136: A-10086CH:1 1
+    2300138: A-10086CH:1 2
+    2300140: A-10086CH:1 3
+    2300142: A-10086CH:1 4
+    2300144: A-10086CH:1 5
+    2300146: A-10086CH:1 6
+    2300148: A-10086CH:1 7
+    2300150: A-10086CH:1 8
+    2300152: a303608lp-Screens:1
+    2300154: a84xm7818ftc:1
+    2300156: a84xm7818ftc:2
+    2300158: Amber-Button-001:1
+    2300160: Amber-Button-001:1 1
+    2300162: Amber-Button-001:1 10
+    2300164: Amber-Button-001:1 11
+    2300166: Amber-Button-001:1 12
+    2300168: Amber-Button-001:1 2
+    2300170: Amber-Button-001:1 3
+    2300172: Amber-Button-001:1 4
+    2300174: Amber-Button-001:1 5
+    2300176: Amber-Button-001:1 6
+    2300178: Amber-Button-001:1 7
+    2300180: Amber-Button-001:1 8
+    2300182: Amber-Button-001:1 9
+    2300184: Amber-Button-002:1
+    2300186: Amber-Button-002:1 1
+    2300188: Amber-Button-002:1 10
+    2300190: Amber-Button-002:1 2
+    2300192: Amber-Button-002:1 3
+    2300194: Amber-Button-002:1 4
+    2300196: Amber-Button-002:1 5
+    2300198: Amber-Button-002:1 6
+    2300200: Amber-Button-002:1 7
+    2300202: Amber-Button-002:1 8
+    2300204: Amber-Button-002:1 9
+    2300206: Amber-Button-003:1
+    2300208: Amber-Button-003:1 1
+    2300210: Amber-Button-003:1 10
+    2300212: Amber-Button-003:1 11
+    2300214: Amber-Button-003:1 12
+    2300216: Amber-Button-003:1 2
+    2300218: Amber-Button-003:1 3
+    2300220: Amber-Button-003:1 4
+    2300222: Amber-Button-003:1 5
+    2300224: Amber-Button-003:1 6
+    2300226: Amber-Button-003:1 7
+    2300228: Amber-Button-003:1 8
+    2300230: Amber-Button-003:1 9
+    2300232: APF-6FT-8IN:1
+    2300234: APF-6FT-8IN:10
+    2300236: APF-6FT-8IN:11
+    2300238: APF-6FT-8IN:12
+    2300240: APF-6FT-8IN:13
+    2300242: APF-6FT-8IN:15
+    2300244: APF-6FT-8IN:16
+    2300246: APF-6FT-8IN:18
+    2300248: APF-6FT-8IN:19
+    2300250: APF-6FT-8IN:2
+    2300252: APF-6FT-8IN:20
+    2300254: APF-6FT-8IN:21
+    2300256: APF-6FT-8IN:24
+    2300258: APF-6FT-8IN:25
+    2300260: APF-6FT-8IN:26
+    2300262: APF-6FT-8IN:3
+    2300264: APF-6FT-8IN:30
+    2300266: APF-6FT-8IN:34
+    2300268: APF-6FT-8IN:35
+    2300270: APF-6FT-8IN:36
+    2300272: APF-6FT-8IN:37
+    2300274: APF-6FT-8IN:38
+    2300276: APF-6FT-8IN:39
+    2300278: APF-6FT-8IN:4
+    2300280: APF-6FT-8IN:40
+    2300282: APF-6FT-8IN:41
+    2300284: APF-6FT-8IN:42
+    2300286: APF-6FT-8IN:43
+    2300288: APF-6FT-8IN:44
+    2300290: APF-6FT-8IN:45
+    2300292: APF-6FT-8IN:46
+    2300294: APF-6FT-8IN:47
+    2300296: APF-6FT-8IN:48
+    2300298: APF-6FT-8IN:49
+    2300300: APF-6FT-8IN:5
+    2300302: APF-6FT-8IN:50
+    2300304: APF-6FT-8IN:51
+    2300306: APF-6FT-8IN:52
+    2300308: APF-6FT-8IN:53
+    2300310: APF-6FT-8IN:54
+    2300312: APF-6FT-8IN:6
+    2300314: APF-6FT-8IN:9
+    2300316: Base-001:1
+    2300318: Base-001:1 1
+    2300320: Base-001:1 2
+    2300322: Base-001:1 3
+    2300324: Base-001:1 4
+    2300326: Base-001:1 5
+    2300328: Base-001:1 6
+    2300330: Base-001:1 7
+    2300332: Base-001:1 8
+    2300334: Blue-Button-002:1
+    2300336: Blue-Button-002:1 1
+    2300338: ccs2ehdlg:1
+    2300340: ccs2ehdlg:1 1
+    2300342: ccs2rblg-01:1
+    2300344: ccs2rblg-01:1 1
+    2300346: ccs2rblg-02:1
+    2300348: ccs2rblg-02:1 1
+    2300350: ccs2sjlg-01:1
+    2300352: ccs2sjlg-01:1 1
+    2300354: ccs2sjlg-02:1
+    2300356: ccs2sjlg-02:1 1
+    2300358: ccs2t5-02:1
+    2300360: ccs2t5-02:1 1
+    2300362: ccs2t5-03:1
+    2300364: ccs2t5-03:1 1
+    2300366: csd16168:1
+    2300368: csd16168:1 1
+    2300370: D-625-001:1
+    2300372: D-625-001:2
+    2300374: D-625-001:3
+    2300376: D-625-001:4
+    2300378: D-625-002:1
+    2300380: D-625-002:1 1
+    2300382: D-625-002:1 2
+    2300384: D-625-002:1 3
+    2300386: GreenLight:1
+    2300388: GreenLight:1 1
+    2300390: GreenLight:1 2
+    2300392: GreenLight:1 3
+    2300394: GreenLight:1 4
+    2300396: GreenLight:1 5
+    2300398: GreenLight:1 6
+    2300400: GreenLight:1 7
+    2300402: GreenLight:1 8
+    2300404: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1
+    2300406: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1 1
+    2300408: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1 2
+    2300410: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1 3
+    2300412: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2
+    2300414: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2 1
+    2300416: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2 2
+    2300418: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2 3
+    2300420: ISO 4762 M5 x 40:1
+    2300422: ISO 4762 M5 x 40:1 1
+    2300424: ISO 4762 M5 x 40:1 2
+    2300426: ISO 4762 M5 x 40:1 3
+    2300428: ISO 4762 M5 x 40:2
+    2300430: ISO 4762 M5 x 40:2 1
+    2300432: ISO 4762 M5 x 40:2 2
+    2300434: ISO 4762 M5 x 40:2 3
+    2300436: ISO 4762 M5 x 40:3
+    2300438: ISO 4762 M5 x 40:3 1
+    2300440: ISO 4762 M5 x 40:3 2
+    2300442: ISO 4762 M5 x 40:3 3
+    2300444: ISO 4762 M5 x 40:4
+    2300446: ISO 4762 M5 x 40:4 1
+    2300448: ISO 4762 M5 x 40:4 2
+    2300450: ISO 4762 M5 x 40:4 3
+    2300452: Laser S100-S200 Single part 101:1
+    2300454: Light-Top:1
+    2300456: Light-Top:1 1
+    2300458: Light-Top:1 2
+    2300460: Light-Top:1 3
+    2300462: Light-Top:1 4
+    2300464: Light-Top:1 5
+    2300466: Light-Top:1 6
+    2300468: Light-Top:1 7
+    2300470: Light-Top:1 8
+    2300472: LightSpacer:1
+    2300474: LightSpacer:1 1
+    2300476: LightSpacer:1 2
+    2300478: LightSpacer:1 3
+    2300480: LightSpacer:1 4
+    2300482: LightSpacer:1 5
+    2300484: LightSpacer:1 6
+    2300486: LightSpacer:1 7
+    2300488: LightSpacer:1 8
+    2300490: Mount-001:1
+    2300492: Mount-001:1 1
+    2300494: RedLight-001:1
+    2300496: RedLight-001:1 1
+    2300498: RedLight-001:1 2
+    2300500: RedLight-001:1 3
+    2300502: RedLight-001:1 4
+    2300504: RedLight-001:1 5
+    2300506: RedLight-001:1 6
+    2300508: RedLight-001:1 7
+    2300510: RedLight-001:1 8
+    2300512: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+    2300514: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+      1
+    2300516: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+      2
+    2300518: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+      3
+    2300520: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+    2300522: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+      1
+    2300524: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+      2
+    2300526: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+      3
+    2300528: SL-C32H-a:1
+    2300530: SL-C32H-a:1 1
+    2300532: SL-C32H-a:1 10
+    2300534: SL-C32H-a:1 11
+    2300536: SL-C32H-a:1 12
+    2300538: SL-C32H-a:1 13
+    2300540: SL-C32H-a:1 14
+    2300542: SL-C32H-a:1 15
+    2300544: SL-C32H-a:1 16
+    2300546: SL-C32H-a:1 17
+    2300548: SL-C32H-a:1 18
+    2300550: SL-C32H-a:1 2
+    2300552: SL-C32H-a:1 4
+    2300554: SL-C32H-a:1 5
+    2300556: SL-C32H-a:1 6
+    2300558: SL-C32H-a:1 7
+    2300560: SL-C32H-a:1 8
+    2300562: SL-C32H-a:1 9
+    2300564: SL-C32H:1
+    2300566: SL-C32H:1 1
+    2300568: SL-C32H:1 2
+    2300570: SL-C32H:1 3
+    2300572: SL-C32H:2
+    2300574: SL-C32H:2 1
+    2300576: SL-C32H:2 2
+    2300578: SL-C32H:2 3
+    2300580: TL8012:1
+    2300582: TL8012:2
+    2300584: TL8012:3
+    2300586: TL8012:4
+    2300588: TL8012_Key-Latch:1
+    2300590: TL8012_Key-Latch:1 1
+    2300592: TL8012_Key-Latch:1 2
+    2300594: TL8012_Key-Latch:1 3
+    3300000: 18 x 35:30
+    3300002: 18 x 35:33
+    3300004: 18 x 35:46
+    3300006: 18 x 35:54
+    3300008: 34 x 35:31
+    3300010: 34 x 35:32
+    3300012: 34 x 35:45
+    3300014: 34 x 35:55
+    3300016: 6-8 x 15:29
+    3300018: 6-8 x 15:44
+    3300020: 6-8 x 25:61
+    3300022: 6-8 x 29:57
+    3300024: 6-8 x 29:58
+    3300026: 6-8 x 35:11
+    3300028: 6-8 x 35:15
+    3300030: 6-8 x 35:48
+    3300032: 6-8 x 35:52
+    3300034: 6-8 x 35:53
+    3300036: 6-8 x 35:59
+    3300038: 6-8 x 39:18
+    3300040: 6-8 x 39:19
+    3300042: 6-8 x 39:36
+    3300044: 6-8 x 39:39
+    3300046: 6-8 x 39:60
+    3300048: 6-8 x 45:1
+    3300050: 6-8 x 45:14
+    3300052: 6-8 x 45:25
+    3300054: 6-8 x 45:28
+    3300056: 6-8 x 45:3
+    3300058: 6-8 x 45:34
+    3300060: 6-8 x 45:35
+    3300062: 6-8 x 45:37
+    3300064: 6-8 x 45:38
+    3300066: 6-8 x 45:40
+    3300068: 6-8 x 45:41
+    3300070: 6-8 x 45:43
+    3300072: 6-8 x 45:49
+    3300074: 6-8 x 45:5
+    3300076: 6-8 x 45:56
+    3300078: 6-8 x 45:6
+    3300080: 6-8 x 45:9
+    3300082: 6-8x45-Gate:1
+    3300084: 6-8x45-Gate:2
+    3300086: 6-8x45-Gate:3
+    3300088: 6-8x45-Gate:4
+    3300090: 800T-FX6A5_01:1
+    3300092: 800T-FX6A5_01:1 1
+    3300094: 800T-FX6A5_01:1 10
+    3300096: 800T-FX6A5_01:1 2
+    3300098: 800T-FX6A5_01:1 3
+    3300100: 800T-FX6A5_01:1 4
+    3300102: 800T-FX6A5_01:1 5
+    3300104: 800T-FX6A5_01:1 6
+    3300106: 800T-FX6A5_01:1 7
+    3300108: 800T-FX6A5_01:1 8
+    3300110: 800T-FX6A5_01:1 9
+    3300112: 800T-FX6A5_02:1
+    3300114: 800T-FX6A5_02:1 1
+    3300116: 800T-FX6A5_02:1 10
+    3300118: 800T-FX6A5_02:1 2
+    3300120: 800T-FX6A5_02:1 3
+    3300122: 800T-FX6A5_02:1 4
+    3300124: 800T-FX6A5_02:1 5
+    3300126: 800T-FX6A5_02:1 6
+    3300128: 800T-FX6A5_02:1 7
+    3300130: 800T-FX6A5_02:1 8
+    3300132: 800T-FX6A5_02:1 9
+    3300134: A-10086CH:1
+    3300136: A-10086CH:1 1
+    3300138: A-10086CH:1 2
+    3300140: A-10086CH:1 3
+    3300142: A-10086CH:1 4
+    3300144: A-10086CH:1 5
+    3300146: A-10086CH:1 6
+    3300148: A-10086CH:1 7
+    3300150: A-10086CH:1 8
+    3300152: a303608lp-Screens:1
+    3300154: a84xm7818ftc:1
+    3300156: a84xm7818ftc:2
+    3300158: Amber-Button-001:1
+    3300160: Amber-Button-001:1 1
+    3300162: Amber-Button-001:1 10
+    3300164: Amber-Button-001:1 11
+    3300166: Amber-Button-001:1 12
+    3300168: Amber-Button-001:1 2
+    3300170: Amber-Button-001:1 3
+    3300172: Amber-Button-001:1 4
+    3300174: Amber-Button-001:1 5
+    3300176: Amber-Button-001:1 6
+    3300178: Amber-Button-001:1 7
+    3300180: Amber-Button-001:1 8
+    3300182: Amber-Button-001:1 9
+    3300184: Amber-Button-002:1
+    3300186: Amber-Button-002:1 1
+    3300188: Amber-Button-002:1 10
+    3300190: Amber-Button-002:1 2
+    3300192: Amber-Button-002:1 3
+    3300194: Amber-Button-002:1 4
+    3300196: Amber-Button-002:1 5
+    3300198: Amber-Button-002:1 6
+    3300200: Amber-Button-002:1 7
+    3300202: Amber-Button-002:1 8
+    3300204: Amber-Button-002:1 9
+    3300206: Amber-Button-003:1
+    3300208: Amber-Button-003:1 1
+    3300210: Amber-Button-003:1 10
+    3300212: Amber-Button-003:1 11
+    3300214: Amber-Button-003:1 12
+    3300216: Amber-Button-003:1 2
+    3300218: Amber-Button-003:1 3
+    3300220: Amber-Button-003:1 4
+    3300222: Amber-Button-003:1 5
+    3300224: Amber-Button-003:1 6
+    3300226: Amber-Button-003:1 7
+    3300228: Amber-Button-003:1 8
+    3300230: Amber-Button-003:1 9
+    3300232: APF-6FT-8IN:1
+    3300234: APF-6FT-8IN:10
+    3300236: APF-6FT-8IN:11
+    3300238: APF-6FT-8IN:12
+    3300240: APF-6FT-8IN:13
+    3300242: APF-6FT-8IN:15
+    3300244: APF-6FT-8IN:16
+    3300246: APF-6FT-8IN:18
+    3300248: APF-6FT-8IN:19
+    3300250: APF-6FT-8IN:2
+    3300252: APF-6FT-8IN:20
+    3300254: APF-6FT-8IN:21
+    3300256: APF-6FT-8IN:24
+    3300258: APF-6FT-8IN:25
+    3300260: APF-6FT-8IN:26
+    3300262: APF-6FT-8IN:3
+    3300264: APF-6FT-8IN:30
+    3300266: APF-6FT-8IN:34
+    3300268: APF-6FT-8IN:35
+    3300270: APF-6FT-8IN:36
+    3300272: APF-6FT-8IN:37
+    3300274: APF-6FT-8IN:38
+    3300276: APF-6FT-8IN:39
+    3300278: APF-6FT-8IN:4
+    3300280: APF-6FT-8IN:40
+    3300282: APF-6FT-8IN:41
+    3300284: APF-6FT-8IN:42
+    3300286: APF-6FT-8IN:43
+    3300288: APF-6FT-8IN:44
+    3300290: APF-6FT-8IN:45
+    3300292: APF-6FT-8IN:46
+    3300294: APF-6FT-8IN:47
+    3300296: APF-6FT-8IN:48
+    3300298: APF-6FT-8IN:49
+    3300300: APF-6FT-8IN:5
+    3300302: APF-6FT-8IN:50
+    3300304: APF-6FT-8IN:51
+    3300306: APF-6FT-8IN:52
+    3300308: APF-6FT-8IN:53
+    3300310: APF-6FT-8IN:54
+    3300312: APF-6FT-8IN:6
+    3300314: APF-6FT-8IN:9
+    3300316: Base-001:1
+    3300318: Base-001:1 1
+    3300320: Base-001:1 2
+    3300322: Base-001:1 3
+    3300324: Base-001:1 4
+    3300326: Base-001:1 5
+    3300328: Base-001:1 6
+    3300330: Base-001:1 7
+    3300332: Base-001:1 8
+    3300334: Blue-Button-002:1
+    3300336: Blue-Button-002:1 1
+    3300338: ccs2ehdlg:1
+    3300340: ccs2ehdlg:1 1
+    3300342: ccs2rblg-01:1
+    3300344: ccs2rblg-01:1 1
+    3300346: ccs2rblg-02:1
+    3300348: ccs2rblg-02:1 1
+    3300350: ccs2sjlg-01:1
+    3300352: ccs2sjlg-01:1 1
+    3300354: ccs2sjlg-02:1
+    3300356: ccs2sjlg-02:1 1
+    3300358: ccs2t5-02:1
+    3300360: ccs2t5-02:1 1
+    3300362: ccs2t5-03:1
+    3300364: ccs2t5-03:1 1
+    3300366: csd16168:1
+    3300368: csd16168:1 1
+    3300370: D-625-001:1
+    3300372: D-625-001:2
+    3300374: D-625-001:3
+    3300376: D-625-001:4
+    3300378: D-625-002:1
+    3300380: D-625-002:1 1
+    3300382: D-625-002:1 2
+    3300384: D-625-002:1 3
+    3300386: GreenLight:1
+    3300388: GreenLight:1 1
+    3300390: GreenLight:1 2
+    3300392: GreenLight:1 3
+    3300394: GreenLight:1 4
+    3300396: GreenLight:1 5
+    3300398: GreenLight:1 6
+    3300400: GreenLight:1 7
+    3300402: GreenLight:1 8
+    3300404: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1
+    3300406: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1 1
+    3300408: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1 2
+    3300410: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1 3
+    3300412: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2
+    3300414: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2 1
+    3300416: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2 2
+    3300418: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2 3
+    3300420: ISO 4762 M5 x 40:1
+    3300422: ISO 4762 M5 x 40:1 1
+    3300424: ISO 4762 M5 x 40:1 2
+    3300426: ISO 4762 M5 x 40:1 3
+    3300428: ISO 4762 M5 x 40:2
+    3300430: ISO 4762 M5 x 40:2 1
+    3300432: ISO 4762 M5 x 40:2 2
+    3300434: ISO 4762 M5 x 40:2 3
+    3300436: ISO 4762 M5 x 40:3
+    3300438: ISO 4762 M5 x 40:3 1
+    3300440: ISO 4762 M5 x 40:3 2
+    3300442: ISO 4762 M5 x 40:3 3
+    3300444: ISO 4762 M5 x 40:4
+    3300446: ISO 4762 M5 x 40:4 1
+    3300448: ISO 4762 M5 x 40:4 2
+    3300450: ISO 4762 M5 x 40:4 3
+    3300452: Laser S100-S200 Single part 101:1
+    3300454: Light-Top:1
+    3300456: Light-Top:1 1
+    3300458: Light-Top:1 2
+    3300460: Light-Top:1 3
+    3300462: Light-Top:1 4
+    3300464: Light-Top:1 5
+    3300466: Light-Top:1 6
+    3300468: Light-Top:1 7
+    3300470: Light-Top:1 8
+    3300472: LightSpacer:1
+    3300474: LightSpacer:1 1
+    3300476: LightSpacer:1 2
+    3300478: LightSpacer:1 3
+    3300480: LightSpacer:1 4
+    3300482: LightSpacer:1 5
+    3300484: LightSpacer:1 6
+    3300486: LightSpacer:1 7
+    3300488: LightSpacer:1 8
+    3300490: Mount-001:1
+    3300492: Mount-001:1 1
+    3300494: RedLight-001:1
+    3300496: RedLight-001:1 1
+    3300498: RedLight-001:1 2
+    3300500: RedLight-001:1 3
+    3300502: RedLight-001:1 4
+    3300504: RedLight-001:1 5
+    3300506: RedLight-001:1 6
+    3300508: RedLight-001:1 7
+    3300510: RedLight-001:1 8
+    3300512: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+    3300514: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+      1
+    3300516: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+      2
+    3300518: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+      3
+    3300520: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+    3300522: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+      1
+    3300524: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+      2
+    3300526: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+      3
+    3300528: SL-C32H-a:1
+    3300530: SL-C32H-a:1 1
+    3300532: SL-C32H-a:1 10
+    3300534: SL-C32H-a:1 11
+    3300536: SL-C32H-a:1 12
+    3300538: SL-C32H-a:1 13
+    3300540: SL-C32H-a:1 14
+    3300542: SL-C32H-a:1 15
+    3300544: SL-C32H-a:1 16
+    3300546: SL-C32H-a:1 17
+    3300548: SL-C32H-a:1 18
+    3300550: SL-C32H-a:1 2
+    3300552: SL-C32H-a:1 4
+    3300554: SL-C32H-a:1 5
+    3300556: SL-C32H-a:1 6
+    3300558: SL-C32H-a:1 7
+    3300560: SL-C32H-a:1 8
+    3300562: SL-C32H-a:1 9
+    3300564: SL-C32H:1
+    3300566: SL-C32H:1 1
+    3300568: SL-C32H:1 2
+    3300570: SL-C32H:1 3
+    3300572: SL-C32H:2
+    3300574: SL-C32H:2 1
+    3300576: SL-C32H:2 2
+    3300578: SL-C32H:2 3
+    3300580: TL8012:1
+    3300582: TL8012:2
+    3300584: TL8012:3
+    3300586: TL8012:4
+    3300588: TL8012_Key-Latch:1
+    3300590: TL8012_Key-Latch:1 1
+    3300592: TL8012_Key-Latch:1 2
+    3300594: TL8012_Key-Latch:1 3
+    4300000: SL-C32H-a:1
+    4300002: SL-C32H-a:1
+    4300004: SL-C32H-a:1
+    4300006: Laser S100-S200 Single part 101:1
+    4300008: APF-6FT-8IN:1
+    4300010: APF-6FT-8IN:2
+    4300012: APF-6FT-8IN:3
+    4300014: 6-8 x 45:1
+    4300016: 6-8 x 45:3
+    4300018: APF-6FT-8IN:4
+    4300020: APF-6FT-8IN:5
+    4300022: 6-8 x 45:5
+    4300024: 6-8 x 45:6
+    4300026: APF-6FT-8IN:6
+    4300028: APF-6FT-8IN:9
+    4300030: APF-6FT-8IN:10
+    4300032: 6-8 x 45:9
+    4300034: 6-8 x 35:11
+    4300036: APF-6FT-8IN:11
+    4300038: APF-6FT-8IN:12
+    4300040: APF-6FT-8IN:13
+    4300042: APF-6FT-8IN:15
+    4300044: 6-8 x 45:14
+    4300046: 6-8 x 35:15
+    4300048: APF-6FT-8IN:16
+    4300050: APF-6FT-8IN:18
+    4300052: 6-8 x 39:18
+    4300054: APF-6FT-8IN:19
+    4300056: 6-8 x 39:19
+    4300058: APF-6FT-8IN:20
+    4300060: APF-6FT-8IN:21
+    4300062: APF-6FT-8IN:24
+    4300064: APF-6FT-8IN:25
+    4300066: APF-6FT-8IN:26
+    4300068: 6-8 x 45:25
+    4300070: APF-6FT-8IN:30
+    4300072: APF-6FT-8IN:34
+    4300074: APF-6FT-8IN:35
+    4300076: 6-8 x 45:28
+    4300078: 6-8 x 15:29
+    4300080: 18 x 35:30
+    4300082: 34 x 35:31
+    4300084: 34 x 35:32
+    4300086: 18 x 35:33
+    4300088: 6-8 x 45:34
+    4300090: 6-8 x 45:35
+    4300092: 6-8 x 39:36
+    4300094: 6-8 x 45:37
+    4300096: 6-8 x 45:38
+    4300098: 6-8 x 39:39
+    4300100: APF-6FT-8IN:36
+    4300102: 6-8 x 45:40
+    4300104: 6-8 x 45:41
+    4300106: APF-6FT-8IN:37
+    4300108: APF-6FT-8IN:38
+    4300110: 6-8 x 45:43
+    4300112: APF-6FT-8IN:39
+    4300114: 6-8 x 15:44
+    4300116: 34 x 35:45
+    4300118: 18 x 35:46
+    4300120: APF-6FT-8IN:40
+    4300122: APF-6FT-8IN:41
+    4300124: APF-6FT-8IN:42
+    4300126: 6-8 x 35:48
+    4300128: APF-6FT-8IN:43
+    4300130: 6-8 x 45:49
+    4300132: APF-6FT-8IN:44
+    4300134: APF-6FT-8IN:45
+    4300136: APF-6FT-8IN:46
+    4300138: 6-8 x 35:52
+    4300140: 6-8 x 35:53
+    4300142: APF-6FT-8IN:47
+    4300144: APF-6FT-8IN:48
+    4300146: 18 x 35:54
+    4300148: 34 x 35:55
+    4300150: APF-6FT-8IN:49
+    4300152: 6-8 x 45:56
+    4300154: APF-6FT-8IN:50
+    4300156: APF-6FT-8IN:51
+    4300158: 6-8 x 29:57
+    4300160: 6-8 x 29:58
+    4300162: 6-8x45-Gate:4
+    4300164: 6-8x45-Gate:3
+    4300166: APF-6FT-8IN:52
+    4300168: APF-6FT-8IN:53
+    4300170: 6-8 x 35:59
+    4300172: 6-8 x 39:60
+    4300174: APF-6FT-8IN:54
+    4300176: 6-8 x 25:61
+    4300178: 6-8x45-Gate:1
+    4300180: 6-8x45-Gate:2
+    4300182: TL8012_Key-Latch:1
+    4300184: D-625-002:1
+    4300186: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+    4300188: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+    4300190: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1
+    4300192: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2
+    4300194: ISO 4762 M5 x 40:1
+    4300196: ISO 4762 M5 x 40:2
+    4300198: ISO 4762 M5 x 40:3
+    4300200: ISO 4762 M5 x 40:4
+    4300202: D-625-001:1
+    4300204: TL8012:1
+    4300206: D-625-001:2
+    4300208: TL8012:2
+    4300210: TL8012_Key-Latch:1
+    4300212: D-625-002:1
+    4300214: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+    4300216: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+    4300218: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1
+    4300220: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2
+    4300222: ISO 4762 M5 x 40:1
+    4300224: ISO 4762 M5 x 40:2
+    4300226: ISO 4762 M5 x 40:3
+    4300228: ISO 4762 M5 x 40:4
+    4300230: TL8012_Key-Latch:1
+    4300232: D-625-002:1
+    4300234: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+    4300236: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+    4300238: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1
+    4300240: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2
+    4300242: ISO 4762 M5 x 40:1
+    4300244: ISO 4762 M5 x 40:2
+    4300246: ISO 4762 M5 x 40:3
+    4300248: ISO 4762 M5 x 40:4
+    4300250: TL8012:3
+    4300252: D-625-001:3
+    4300254: TL8012_Key-Latch:1
+    4300256: D-625-002:1
+    4300258: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:1
+    4300260: Regular Helical Spring Lock Washer (Inch) 1/4 Regular. Carbon Steel:2
+    4300262: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:1
+    4300264: Hexagon Socket Head Cap Screw - Inch 1/4 - 20 UNC - 1/2:2
+    4300266: ISO 4762 M5 x 40:1
+    4300268: ISO 4762 M5 x 40:2
+    4300270: ISO 4762 M5 x 40:3
+    4300272: ISO 4762 M5 x 40:4
+    4300274: TL8012:4
+    4300276: D-625-001:4
+    4300278: A-10086CH:1
+    4300280: Amber-Button-003:1
+    4300282: Amber-Button-001:1
+    4300284: Amber-Button-002:1
+    4300286: 800T-FX6A5_01:1
+    4300288: 800T-FX6A5_02:1
+    4300290: Base-001:1
+    4300292: GreenLight:1
+    4300294: RedLight-001:1
+    4300296: LightSpacer:1
+    4300298: Light-Top:1
+    4300300: A-10086CH:1
+    4300302: Amber-Button-003:1
+    4300304: Amber-Button-001:1
+    4300306: Amber-Button-002:1
+    4300308: 800T-FX6A5_01:1
+    4300310: 800T-FX6A5_02:1
+    4300312: Base-001:1
+    4300314: GreenLight:1
+    4300316: RedLight-001:1
+    4300318: LightSpacer:1
+    4300320: Light-Top:1
+    4300322: A-10086CH:1
+    4300324: Amber-Button-003:1
+    4300326: Amber-Button-001:1
+    4300328: Amber-Button-002:1
+    4300330: 800T-FX6A5_01:1
+    4300332: 800T-FX6A5_02:1
+    4300334: Base-001:1
+    4300336: GreenLight:1
+    4300338: RedLight-001:1
+    4300340: LightSpacer:1
+    4300342: Light-Top:1
+    4300344: A-10086CH:1
+    4300346: Amber-Button-003:1
+    4300348: Amber-Button-001:1
+    4300350: Amber-Button-002:1
+    4300352: 800T-FX6A5_01:1
+    4300354: 800T-FX6A5_02:1
+    4300356: Base-001:1
+    4300358: GreenLight:1
+    4300360: RedLight-001:1
+    4300362: LightSpacer:1
+    4300364: Light-Top:1
+    4300366: A-10086CH:1
+    4300368: Amber-Button-003:1
+    4300370: Amber-Button-001:1
+    4300372: Amber-Button-002:1
+    4300374: 800T-FX6A5_01:1
+    4300376: 800T-FX6A5_02:1
+    4300378: Base-001:1
+    4300380: GreenLight:1
+    4300382: RedLight-001:1
+    4300384: LightSpacer:1
+    4300386: Light-Top:1
+    4300388: A-10086CH:1
+    4300390: Amber-Button-003:1
+    4300392: Amber-Button-001:1
+    4300394: Amber-Button-002:1
+    4300396: 800T-FX6A5_01:1
+    4300398: 800T-FX6A5_02:1
+    4300400: Base-001:1
+    4300402: GreenLight:1
+    4300404: RedLight-001:1
+    4300406: LightSpacer:1
+    4300408: Light-Top:1
+    4300410: A-10086CH:1
+    4300412: Amber-Button-003:1
+    4300414: Amber-Button-001:1
+    4300416: Amber-Button-002:1
+    4300418: 800T-FX6A5_01:1
+    4300420: 800T-FX6A5_02:1
+    4300422: Base-001:1
+    4300424: GreenLight:1
+    4300426: RedLight-001:1
+    4300428: LightSpacer:1
+    4300430: Light-Top:1
+    4300432: A-10086CH:1
+    4300434: Amber-Button-003:1
+    4300436: Amber-Button-001:1
+    4300438: Amber-Button-002:1
+    4300440: 800T-FX6A5_01:1
+    4300442: 800T-FX6A5_02:1
+    4300444: Base-001:1
+    4300446: GreenLight:1
+    4300448: RedLight-001:1
+    4300450: LightSpacer:1
+    4300452: Light-Top:1
+    4300454: A-10086CH:1
+    4300456: Amber-Button-003:1
+    4300458: Amber-Button-001:1
+    4300460: Amber-Button-002:1
+    4300462: 800T-FX6A5_01:1
+    4300464: 800T-FX6A5_02:1
+    4300466: Base-001:1
+    4300468: GreenLight:1
+    4300470: RedLight-001:1
+    4300472: LightSpacer:1
+    4300474: Light-Top:1
+    4300476: SL-C32H:1
+    4300478: SL-C32H:2
+    4300480: SL-C32H-a:1
+    4300482: SL-C32H-a:1
+    4300484: SL-C32H-a:1
+    4300486: SL-C32H-a:1
+    4300488: SL-C32H-a:1
+    4300490: SL-C32H-a:1
+    4300492: SL-C32H-a:1
+    4300494: SL-C32H-a:1
+    4300496: SL-C32H-a:1
+    4300498: SL-C32H-a:1
+    4300500: SL-C32H-a:1
+    4300502: SL-C32H-a:1
+    4300504: SL-C32H-a:1
+    4300506: SL-C32H-a:1
+    4300508: SL-C32H-a:1
+    4300510: SL-C32H:1
+    4300512: SL-C32H:2
+    4300514: SL-C32H:1
+    4300516: SL-C32H:2
+    4300518: SL-C32H:1
+    4300520: SL-C32H:2
+    4300522: a84xm7818ftc:1
+    4300524: a84xm7818ftc:2
+    4300526: a303608lp-Screens:1
+    4300528: csd16168:1
+    4300530: ccs2t5-02:1
+    4300532: ccs2rblg-01:1
+    4300534: ccs2rblg-02:1
+    4300536: ccs2ehdlg:1
+    4300538: ccs2t5-03:1
+    4300540: ccs2sjlg-02:1
+    4300542: ccs2sjlg-01:1
+    4300544: 800T-FX6A5_01:1
+    4300546: 800T-FX6A5_02:1
+    4300548: Amber-Button-003:1
+    4300550: Amber-Button-001:1
+    4300552: Blue-Button-002:1
+    4300554: Amber-Button-003:1
+    4300556: Amber-Button-001:1
+    4300558: Amber-Button-002:1
+    4300560: Mount-001:1
+    4300562: csd16168:1
+    4300564: ccs2t5-02:1
+    4300566: ccs2rblg-01:1
+    4300568: ccs2rblg-02:1
+    4300570: ccs2ehdlg:1
+    4300572: ccs2t5-03:1
+    4300574: ccs2sjlg-02:1
+    4300576: ccs2sjlg-01:1
+    4300578: 800T-FX6A5_01:1
+    4300580: 800T-FX6A5_02:1
+    4300582: Amber-Button-003:1
+    4300584: Amber-Button-001:1
+    4300586: Blue-Button-002:1
+    4300588: Amber-Button-003:1
+    4300590: Amber-Button-001:1
+    4300592: Amber-Button-002:1
+    4300594: Mount-001:1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
