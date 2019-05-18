@@ -23,6 +23,18 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 
+    - useVariable: 1
+      name: GString/Json/Feature
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 
+    - useVariable: 1
+      name: GString/Json/VideoDescription
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 
     vector2Variables: []
     vector3Variables: []
     colorVariables: []
@@ -54,7 +66,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 00000000000000000000000000000000
+    variableCategoryIDs: 000000000000000000000000000000000000000000000000
   events:
   - Click
   - Language_Select
@@ -66,3 +78,6 @@ MonoBehaviour:
   - Load
   - Reset3DMode
   - ChangeMode
+  - TurnOn
+  - TurnOff
+  - Process
