@@ -10,6 +10,8 @@ TextureImporter:
     21300010: Frame_Shadow
     21300012: UI_4
     21300014: Back
+    21300016: Gradual_R_L
+    21300018: Gradual_L_R
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -251,13 +253,53 @@ TextureImporter:
         width: 181
         height: 279
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: 9701aee3163398749b0ce286a6679c1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradual_R_L
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 1368
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 19, z: 0, w: 17}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997c5a039f7e50a4f8ec5a9657d0871c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradual_L_R
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 1371
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 16, z: 0, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ca7638281ccd14fb08d35aa81749c6
       vertices: []
       indices: 
       edges: []

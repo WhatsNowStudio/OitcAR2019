@@ -65,3 +65,4 @@ MonoBehaviour:
   - KillDone
   - Load
   - Reset3DMode
+  - ChangeMode

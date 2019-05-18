@@ -1,0 +1,23 @@
+{
+  "Industry": {
+    "Manufacturing": {
+      "VideoDescription": {
+        "0": {
+          "Title": "影片A",
+          "VideoClip": "第一段",
+          "Pic": "影片縮圖"
+        },
+        "1": {
+          "Title": "影片B",
+          "VideoClip": "第二段",
+          "Pic": "影片縮圖"
+        },
+        "2": {
+          "Title": "影片C",
+          "VideoClip": "第三段",
+          "Pic": "影片縮圖"
+        }
+      }
+    }
+  }
+}
