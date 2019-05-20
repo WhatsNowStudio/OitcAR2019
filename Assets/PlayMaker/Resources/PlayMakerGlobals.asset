@@ -81,3 +81,5 @@ MonoBehaviour:
   - TurnOn
   - TurnOff
   - Process
+  - SelectOn
+  - SelectOff
