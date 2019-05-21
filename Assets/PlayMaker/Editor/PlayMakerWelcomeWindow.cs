@@ -19,7 +19,7 @@ namespace HutongGames.PlayMakerEditor
     {
         // Remember to update version info since it's used by export scripts!
         public const string InstallCurrentVersion = "1.9.0";
-        public const string InstallAssemblyVersion = "1.9.0.p15";
+        public const string InstallAssemblyVersion = "1.9.0.p16";
         public const string InstallBetaVersion = "";
         public const string Version = InstallCurrentVersion + " " + InstallBetaVersion;
 

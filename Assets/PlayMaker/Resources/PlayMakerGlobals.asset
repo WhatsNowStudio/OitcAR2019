@@ -95,3 +95,5 @@ MonoBehaviour:
   - Process
   - SelectOn
   - SelectOff
+  - Detection
+  - DetectionFailure
