@@ -6538,7 +6538,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0101010101010101
-        actionIsOpen: 0000000000000001
+        actionIsOpen: 0000000000000000
         actionStartIndex: 00000000040000000c0000001000000017000000200000002f0000003e000000
         actionHashCodes: 184b57046ab44904184b57045552ad05c1edb80174157803741578037bce7604
         unityObjectParams: []
@@ -6562,7 +6562,7 @@ MonoBehaviour:
           networkSync: 0
           value: {fileID: 0}
         - useVariable: 1
-          name: Obj/Target
+          name: Obj/CameraAlign/Camera
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -6764,6 +6764,24 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: 0.6
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 1
+          name: Float/Time
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0.6
         - useVariable: 0
           name: 
           tooltip: 
@@ -6782,25 +6800,7 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: 0.6
-        - useVariable: 1
-          name: 
-          tooltip: 
-          showInInspector: 0
-          networkSync: 0
-          value: 0
-        - useVariable: 1
-          name: 
-          tooltip: 
-          showInInspector: 0
-          networkSync: 0
-          value: 0
-        - useVariable: 1
-          name: Float/Time
-          tooltip: 
-          showInInspector: 0
-          networkSync: 0
-          value: 0.6
-        - useVariable: 1
+        - useVariable: 0
           name: 
           tooltip: 
           showInInspector: 0
