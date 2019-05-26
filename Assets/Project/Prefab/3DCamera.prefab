@@ -12,7 +12,9 @@ GameObject:
   - component: {fileID: 2547854420166661604}
   - component: {fileID: 6929265390166974803}
   - component: {fileID: 5990729847928373595}
-  m_Layer: 0
+  - component: {fileID: 4921363383698556007}
+  - component: {fileID: 3133106101394407105}
+  m_Layer: 8
   m_Name: Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -26,13 +28,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1137944475076960518}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0.000000059604645, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7034462864658394867}
   - {fileID: 5979112399376235597}
-  m_Father: {fileID: 7034246132102291649}
+  m_Father: {fileID: 7026115541840328087}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!20 &2547854420166661604
@@ -93,6 +95,83 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1137944475076960518}
   m_Enabled: 1
+--- !u!114 &4921363383698556007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1137944475076960518}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  volumeTrigger: {fileID: 8486605025300926505}
+  volumeLayer:
+    serializedVersion: 2
+    m_Bits: 256
+  stopNaNPropagation: 1
+  finalBlitToCameraTarget: 1
+  antialiasingMode: 1
+  temporalAntialiasing:
+    jitterSpread: 0.75
+    sharpness: 0.25
+    stationaryBlending: 0.95
+    motionBlending: 0.85
+  subpixelMorphologicalAntialiasing:
+    quality: 2
+  fastApproximateAntialiasing:
+    fastMode: 0
+    keepAlpha: 0
+  fog:
+    enabled: 1
+    excludeSkybox: 1
+  debugLayer:
+    lightMeter:
+      width: 512
+      height: 256
+      showCurves: 1
+    histogram:
+      width: 512
+      height: 256
+      channel: 3
+    waveform:
+      exposure: 0.12
+      height: 256
+    vectorscope:
+      size: 256
+      exposure: 0.12
+    overlaySettings:
+      linearDepth: 0
+      motionColorIntensity: 4
+      motionGridSize: 64
+      colorBlindnessType: 0
+      colorBlindnessStrength: 1
+  m_Resources: {fileID: 11400000, guid: d82512f9c8e5d4a4d938b575d47f88d4, type: 2}
+  m_ShowToolkit: 0
+  m_ShowCustomSorter: 0
+  breakBeforeColorGrading: 0
+  m_BeforeTransparentBundles: []
+  m_BeforeStackBundles: []
+  m_AfterStackBundles: []
+--- !u!114 &3133106101394407105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1137944475076960518}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sharedProfile: {fileID: 11400000, guid: fcf6bb6141023194db19b4e803e91ca4, type: 2}
+  isGlobal: 1
+  blendDistance: 0
+  weight: 1
+  priority: 0
 --- !u!1 &1971378544747049992
 GameObject:
   m_ObjectHideFlags: 0
@@ -998,7 +1077,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            value: {fileID: 7031265104694921553}
+            value: {fileID: 0}
         - ownerOption: 1
           gameObject:
             useVariable: 1
@@ -1204,7 +1283,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            value: {fileID: 7031265104694921553}
+            value: {fileID: 0}
         - ownerOption: 1
           gameObject:
             useVariable: 1
@@ -1492,7 +1571,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            value: {fileID: 7031265104694921553}
+            value: {fileID: 0}
         animationCurveParams:
         - curve:
             serializedVersion: 2
@@ -1966,7 +2045,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 0
         networkSync: 0
-        value: {fileID: 7031265104694921553}
+        value: {fileID: 0}
       - useVariable: 1
         name: Obj/MainCamera
         tooltip: 
@@ -4780,15 +4859,45 @@ MonoBehaviour:
       hideUnused: 0
       transitions: []
       actionData:
-        actionNames: []
-        customNames: []
-        actionEnabled: 
-        actionIsOpen: 
-        actionStartIndex: 
-        actionHashCodes: 
+        actionNames:
+        - HutongGames.PlayMaker.Actions.GetRotation
+        - HutongGames.PlayMaker.Actions.GetRotation
+        - HutongGames.PlayMaker.Actions.GetPosition
+        customNames:
+        - 
+        - 
+        - 
+        actionEnabled: 010101
+        actionIsOpen: 010101
+        actionStartIndex: 000000000800000010000000
+        actionHashCodes: 6ab449046ab449045552ad05
         unityObjectParams: []
         fsmGameObjectParams: []
-        fsmOwnerDefaultParams: []
+        fsmOwnerDefaultParams:
+        - ownerOption: 1
+          gameObject:
+            useVariable: 1
+            name: Obj/Camera/Main
+            tooltip: 
+            showInInspector: 1
+            networkSync: 0
+            value: {fileID: 1971378544747049992}
+        - ownerOption: 1
+          gameObject:
+            useVariable: 1
+            name: Obj/Camera/RotateX
+            tooltip: 
+            showInInspector: 1
+            networkSync: 0
+            value: {fileID: 7031765267892372465}
+        - ownerOption: 1
+          gameObject:
+            useVariable: 1
+            name: Obj/Camera/Camera
+            tooltip: 
+            showInInspector: 1
+            networkSync: 0
+            value: {fileID: 1137944475076960518}
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []
@@ -4800,24 +4909,131 @@ MonoBehaviour:
         fsmVarParams: []
         fsmArrayParams: []
         fsmEnumParams: []
-        fsmFloatParams: []
+        fsmFloatParams:
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
         fsmIntParams: []
         fsmBoolParams: []
         fsmVector2Params: []
-        fsmVector3Params: []
+        fsmVector3Params:
+        - useVariable: 1
+          name: V3/Default/Camera/Main
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: {x: 0, y: 0, z: 0}
+        - useVariable: 1
+          name: V3/Default/Camera/RotateX
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: {x: 0, y: 0, z: 0}
+        - useVariable: 1
+          name: V3/Default/Camera/Main
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: {x: 0, y: 0, z: 0}
         fsmColorParams: []
         fsmRectParams: []
-        fsmQuaternionParams: []
+        fsmQuaternionParams:
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: {x: 0, y: 0, z: 0, w: 0}
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: {x: 0, y: 0, z: 0, w: 0}
         stringParams: []
-        byteData: 
+        byteData: 000000000001000000000100000000
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 
-        paramName: []
-        paramDataPos: 
-        paramByteDataSize: 
+        paramDataType: 14000000230000001c0000000f0000000f0000000f000000070000000100000014000000230000001c0000000f0000000f0000000f0000000700000001000000140000001c0000000f0000000f0000000f0000000700000001000000
+        paramName:
+        - gameObject
+        - quaternion
+        - vector
+        - xAngle
+        - yAngle
+        - zAngle
+        - space
+        - everyFrame
+        - gameObject
+        - quaternion
+        - vector
+        - xAngle
+        - yAngle
+        - zAngle
+        - space
+        - everyFrame
+        - gameObject
+        - vector
+        - x
+        - y
+        - z
+        - space
+        - everyFrame
+        paramDataPos: 0000000000000000000000000000000001000000020000000000000004000000010000000100000001000000030000000400000005000000050000000900000002000000020000000600000007000000080000000a0000000e000000
+        paramByteDataSize: 0000000000000000000000000000000000000000000000000400000001000000000000000000000000000000000000000000000000000000040000000100000000000000000000000000000000000000000000000400000001000000
     - name: "\u77AC\u9593\u5C0D\u9F4A"
       description: 
       colorIndex: 0
@@ -4859,7 +5075,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0101010101010101
-        actionIsOpen: 0101010000000000
+        actionIsOpen: 0000000000000000
         actionStartIndex: 0000000004000000080000000c0000001000000014000000180000001c000000
         actionHashCodes: 184b5704184b5704ea32a105ea32a105ea32a105ea32a105ea32a105ea32a105
         unityObjectParams: []
@@ -4907,11 +5123,11 @@ MonoBehaviour:
           networkSync: 0
           value: {fileID: 0}
         - useVariable: 1
-          name: Obj/Camera/CameraDummy
+          name: Obj/Camera/RotateX
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: {fileID: 7031265104694921553}
+          value: {fileID: 7031765267892372465}
         fsmOwnerDefaultParams:
         - ownerOption: 1
           gameObject:
@@ -5551,7 +5767,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 01010101
-        actionIsOpen: 00010100
+        actionIsOpen: 01000001
         actionStartIndex: 00000000090000001800000027000000
         actionHashCodes: c1edb80174157803741578037bce7604
         unityObjectParams: []
@@ -5559,7 +5775,7 @@ MonoBehaviour:
         - useVariable: 1
           name: Obj/WorldCenter
           tooltip: 
-          showInInspector: 1
+          showInInspector: 0
           networkSync: 0
           value: {fileID: 0}
         - useVariable: 1
@@ -5815,24 +6031,24 @@ MonoBehaviour:
           value: 1
         fsmVector2Params: []
         fsmVector3Params:
-        - useVariable: 0
-          name: 
+        - useVariable: 1
+          name: V3/Default/Camera/Main
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: {x: 0, y: 125, z: 0}
-        - useVariable: 0
-          name: 
+          value: {x: 0, y: 0, z: 0}
+        - useVariable: 1
+          name: V3/Default/Camera/RotateX
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: {x: 6, y: 0, z: 0}
-        - useVariable: 0
-          name: 
+          value: {x: 0, y: 0, z: 0}
+        - useVariable: 1
+          name: V3/Default/Camera/Camera
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: {x: 0, y: 0, z: -4}
+          value: {x: 0, y: 0, z: 0}
         - useVariable: 1
           name: 
           tooltip: 
@@ -6538,7 +6754,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0101010101010101
-        actionIsOpen: 0000000000000000
+        actionIsOpen: 0100010001010000
         actionStartIndex: 00000000040000000c0000001000000017000000200000002f0000003e000000
         actionHashCodes: 184b57046ab44904184b57045552ad05c1edb80174157803741578037bce7604
         unityObjectParams: []
@@ -6562,7 +6778,7 @@ MonoBehaviour:
           networkSync: 0
           value: {fileID: 0}
         - useVariable: 1
-          name: Obj/CameraAlign/Camera
+          name: Obj/Target
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -6782,7 +6998,7 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: 0.6
-        - useVariable: 0
+        - useVariable: 1
           name: 
           tooltip: 
           showInInspector: 0
@@ -6800,7 +7016,7 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: 0.6
-        - useVariable: 0
+        - useVariable: 1
           name: 
           tooltip: 
           showInInspector: 0
@@ -7387,7 +7603,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0101010101010101
-        actionIsOpen: 0000010101010101
+        actionIsOpen: 0000000000000001
         actionStartIndex: 0000000004000000080000000c0000001000000014000000180000001c000000
         actionHashCodes: 184b5704184b5704ea32a105ea32a105ea32a105ea32a105ea32a105ea32a105
         unityObjectParams: []
@@ -7435,11 +7651,11 @@ MonoBehaviour:
           networkSync: 0
           value: {fileID: 0}
         - useVariable: 1
-          name: Obj/Camera/CameraDummy
+          name: Obj/Camera/RotateX
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: {fileID: 7031265104694921553}
+          value: {fileID: 7031765267892372465}
         fsmOwnerDefaultParams:
         - ownerOption: 1
           gameObject:
@@ -7795,6 +8011,24 @@ MonoBehaviour:
         showInInspector: 0
         networkSync: 0
         value: {x: 0, y: 0, z: 0}
+      - useVariable: 1
+        name: V3/Default/Camera/Main
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        value: {x: 0, y: 0, z: 0}
+      - useVariable: 1
+        name: V3/Default/Camera/RotateX
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        value: {x: 0, y: 0, z: 0}
+      - useVariable: 1
+        name: V3/Default/Camera/Camera
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        value: {x: 0, y: 0, z: 0}
       colorVariables: []
       rectVariables: []
       quaternionVariables: []
@@ -7805,18 +8039,6 @@ MonoBehaviour:
         showInInspector: 1
         networkSync: 0
         value: {fileID: 1137944475076960518}
-      - useVariable: 1
-        name: Obj/Camera/CameraDummy
-        tooltip: 
-        showInInspector: 1
-        networkSync: 0
-        value: {fileID: 7031265104694921553}
-      - useVariable: 1
-        name: Obj/Camera/Center
-        tooltip: 
-        showInInspector: 1
-        networkSync: 0
-        value: {fileID: 7031340821552893427}
       - useVariable: 1
         name: Obj/Camera/Main
         tooltip: 
@@ -7862,7 +8084,7 @@ MonoBehaviour:
       - useVariable: 1
         name: Obj/WorldCenter
         tooltip: 
-        showInInspector: 1
+        showInInspector: 0
         networkSync: 0
         value: {fileID: 0}
       objectVariables: []
@@ -7872,7 +8094,7 @@ MonoBehaviour:
       enumVariables: []
       categories:
       - 
-      variableCategoryIDs: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
     description: 
     docUrl: 
     showStateLabel: 0
@@ -7991,40 +8213,6 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
---- !u!1 &7031265104694921553
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 7034246132102291649}
-  m_Layer: 0
-  m_Name: CameraDummy
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &7034246132102291649
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7031265104694921553}
-  m_LocalRotation: {x: 0.000000059604638, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 8486605025300926505}
-  - {fileID: 7034087785390558821}
-  - {fileID: 7025676986860633221}
-  - {fileID: 7034506337584726783}
-  m_Father: {fileID: 7026115541840328087}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7031340821552893427
 GameObject:
   m_ObjectHideFlags: 0
@@ -8048,11 +8236,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7031340821552893427}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0.000000059604645, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 7034246132102291649}
+  m_Father: {fileID: 7026115541840328087}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7031585638792182119
@@ -8078,11 +8266,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7031585638792182119}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: -14}
+  m_LocalRotation: {x: 0.000000059604645, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -14}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 7034246132102291649}
+  m_Father: {fileID: 7026115541840328087}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7031728162681565193
@@ -8108,11 +8296,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7031728162681565193}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0.000000059604645, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 7034246132102291649}
+  m_Father: {fileID: 7026115541840328087}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7031765267892372465
@@ -8138,14 +8326,17 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7031765267892372465}
-  m_LocalRotation: {x: 0.13052616, y: 0, z: 0, w: 0.9914449}
+  m_LocalRotation: {x: 0.37864852, y: 0, z: 0, w: 0.92554057}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 7034246132102291649}
+  - {fileID: 8486605025300926505}
+  - {fileID: 7034087785390558821}
+  - {fileID: 7025676986860633221}
+  - {fileID: 7034506337584726783}
   m_Father: {fileID: 6493380178696936095}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 15, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 44.5, y: 0, z: 0}
 --- !u!1 &7031790749694567977
 GameObject:
   m_ObjectHideFlags: 0
