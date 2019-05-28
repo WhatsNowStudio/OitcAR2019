@@ -25,6 +25,7 @@ ModelImporter:
     100038: "\u5BE6\u9AD41"
     100040: "\u578B\u8B8A\u906E\u853D"
     100042: "\u672C\u9AD4"
+    100044: "\u672C\u9AD4B"
     400000: //RootNode
     400002: Cone001
     400004: Cone002
@@ -47,6 +48,7 @@ ModelImporter:
     400038: "\u5BE6\u9AD41"
     400040: "\u578B\u8B8A\u906E\u853D"
     400042: "\u672C\u9AD4"
+    400044: "\u672C\u9AD4B"
     2100000: 02 - Default
     2100002: 01 - Default
     2300000: Cone001
@@ -70,6 +72,7 @@ ModelImporter:
     2300036: "\u5BE6\u9AD41"
     2300038: "\u578B\u8B8A\u906E\u853D"
     2300040: "\u672C\u9AD4"
+    2300042: "\u672C\u9AD4B"
     3300000: Cone001
     3300002: Cone002
     3300004: Cone003
@@ -91,6 +94,7 @@ ModelImporter:
     3300036: "\u5BE6\u9AD41"
     3300038: "\u578B\u8B8A\u906E\u853D"
     3300040: "\u672C\u9AD4"
+    3300042: "\u672C\u9AD4B"
     4300000: "\u5BE6\u9AD41"
     4300002: "\u5BE6\u9AD4003"
     4300004: Cone001
@@ -112,6 +116,7 @@ ModelImporter:
     4300036: Object001
     4300038: "\u672C\u9AD4"
     4300040: "\u578B\u8B8A\u906E\u853D"
+    4300042: "\u672C\u9AD4B"
   externalObjects: {}
   materials:
     importMaterials: 1

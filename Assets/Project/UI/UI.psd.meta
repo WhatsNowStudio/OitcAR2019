@@ -12,6 +12,7 @@ TextureImporter:
     21300014: Back
     21300016: Gradual_R_L
     21300018: Gradual_L_R
+    21300020: Arrow
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -293,13 +294,33 @@ TextureImporter:
         width: 1371
         height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 16, z: 0, w: 19}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: 14ca7638281ccd14fb08d35aa81749c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1068
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81efb6cd276e8554fb7bac8a91d3c443
       vertices: []
       indices: 
       edges: []

@@ -515,25 +515,5 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7866753391672079392, guid: 666195b73c683fc4f9c82346dd4de371,
-        type: 3}
-      propertyPath: m_Text
-      value: Inventer
-      objectReference: {fileID: 0}
-    - target: {fileID: 5969335394488679917, guid: 666195b73c683fc4f9c82346dd4de371,
-        type: 3}
-      propertyPath: m_Text
-      value: Inventer
-      objectReference: {fileID: 0}
-    - target: {fileID: 2299655477960495814, guid: 666195b73c683fc4f9c82346dd4de371,
-        type: 3}
-      propertyPath: m_Text
-      value: Inventer
-      objectReference: {fileID: 0}
-    - target: {fileID: 4841178173093628160, guid: 666195b73c683fc4f9c82346dd4de371,
-        type: 3}
-      propertyPath: m_Text
-      value: Inventer
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 666195b73c683fc4f9c82346dd4de371, type: 3}
