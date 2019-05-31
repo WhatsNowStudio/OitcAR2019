@@ -13,6 +13,7 @@ TextureImporter:
     21300016: Gradual_R_L
     21300018: Gradual_L_R
     21300020: Arrow
+    21300022: X
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -314,13 +315,33 @@ TextureImporter:
         width: 76
         height: 84
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: 81efb6cd276e8554fb7bac8a91d3c443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1844
+        width: 230
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6e6ceda07312f4d8c0398933bd79ba
       vertices: []
       indices: 
       edges: []
