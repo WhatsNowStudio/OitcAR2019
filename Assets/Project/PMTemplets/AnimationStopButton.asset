@@ -42,13 +42,13 @@ MonoBehaviour:
         colorIndex: 0
       actionData:
         actionNames:
-        - HutongGames.PlayMaker.Actions.NextFrameEventAdvance
+        - HutongGames.PlayMaker.Actions.Wait
         customNames:
         - 
         actionEnabled: 01
         actionIsOpen: 01
         actionStartIndex: 00000000
-        actionHashCodes: 66e6a403
+        actionHashCodes: 48c01101
         unityObjectParams: []
         fsmGameObjectParams: []
         fsmOwnerDefaultParams: []
@@ -63,14 +63,14 @@ MonoBehaviour:
         fsmVarParams: []
         fsmArrayParams: []
         fsmEnumParams: []
-        fsmFloatParams: []
-        fsmIntParams:
+        fsmFloatParams:
         - useVariable: 0
           name: 
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 15
+          value: 0.5
+        fsmIntParams: []
         fsmBoolParams: []
         fsmVector2Params: []
         fsmVector3Params: []
@@ -79,17 +79,18 @@ MonoBehaviour:
         fsmQuaternionParams: []
         stringParams:
         - Go
-        byteData: 
+        byteData: 00
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 1000000017000000
+        paramDataType: 0f0000001700000001000000
         paramName:
-        - frameCount
-        - sendEvent
-        paramDataPos: 0000000000000000
-        paramByteDataSize: 0000000000000000
+        - time
+        - finishEvent
+        - realTime
+        paramDataPos: 000000000000000000000000
+        paramByteDataSize: 000000000000000001000000
     - name: "\u505C\u6B62\u52D5\u4F5C"
       description: 
       colorIndex: 0
