@@ -16,6 +16,7 @@ TextureImporter:
     21300022: X
     21300024: Frame2
     21300026: loading
+    21300028: Checkicon
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -377,13 +378,33 @@ TextureImporter:
         width: 300
         height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: cc7ec45513cf2b04b8dff71538703a7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkicon
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1426
+        width: 263
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7dd133b369f23428ebc2a640b4323b
       vertices: []
       indices: 
       edges: []
