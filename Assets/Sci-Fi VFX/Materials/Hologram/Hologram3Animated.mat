@@ -49,8 +49,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 1e2b54f757fa8354ba721358a91d2909, type: 3}
-        m_Scale: {x: 10, y: 1.87}
-        m_Offset: {x: 0, y: -10.13}
+        m_Scale: {x: 10, y: 3.38}
+        m_Offset: {x: 0, y: -3.01}
     - _MaskTex:
         m_Texture: {fileID: 2800000, guid: 3aac3087967ea4fae858ec0494fd24d9, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -94,7 +94,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.078431375, g: 0.68235296, b: 1.4980392, a: 0.30588236}
+    - _Color: {r: 0, g: 0.2972003, b: 5.992157, a: 0.3137255}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MainColor: {r: 0.783, g: 0.783, b: 0.783, a: 1}
     - _MaskColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
