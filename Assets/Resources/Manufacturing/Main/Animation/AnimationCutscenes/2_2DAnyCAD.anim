@@ -19,7 +19,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 27, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -28,7 +28,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.25
-        value: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 27, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -37,7 +37,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 1
-        value: {x: 0, y: -72, z: 0}
+        value: {x: -90, y: -45.000004, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -47,7 +47,32 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -90.00001, y: 0, z: 116.5}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1
+        value: {x: -90.00001, y: 0, z: 116.5}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
   m_PositionCurves:
   - curve:
       serializedVersion: 2
@@ -86,7 +111,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: 0, z: 0}
+        value: {x: 0.359, y: 0.919, z: 0.681}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -95,7 +120,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.25
-        value: {x: 0, y: 0, z: 0}
+        value: {x: 0.359, y: 0.919, z: 0.681}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -104,7 +129,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 1
-        value: {x: 50.37, y: -72.1, z: -38.21}
+        value: {x: 3.62, y: -4.72, z: 8.76}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -114,7 +139,32 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.3616999, y: 0.9491001, z: 0.7764997}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1
+        value: {x: 0.3616999, y: 0.9491001, z: 0.7764997}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
   m_ScaleCurves:
   - curve:
       serializedVersion: 2
@@ -139,7 +189,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 1
-        value: {x: 80, y: 80, z: 80}
+        value: {x: 62.847878, y: 62.847878, z: 62.847878}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -149,7 +199,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6"
   m_FloatCurves:
   - curve:
       serializedVersion: 2
@@ -220,7 +270,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 1
+        time: 2
         value: 0
         inSlope: Infinity
         outSlope: Infinity
@@ -295,7 +345,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 1
+        time: 2
         value: 0
         inSlope: Infinity
         outSlope: Infinity
@@ -407,7 +457,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 1
+        time: 2
         value: 0
         inSlope: Infinity
         outSlope: Infinity
@@ -687,7 +737,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.25
+        time: 1
         value: 0
         inSlope: Infinity
         outSlope: Infinity
@@ -699,7 +749,35 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Enabled
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01/\u684C\u5B50_Part02"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02"
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -715,7 +793,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.25
+        time: 1
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -727,36 +805,8 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
     classID: 1
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 0.6666667
-        value: 0
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Enabled
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
-    classID: 23
     script: {fileID: 0}
   - curve:
       serializedVersion: 2
@@ -792,7 +842,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._Color.r
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -829,7 +879,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._Color.g
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -866,7 +916,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._Color.b
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -903,19 +953,10 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._Color.a
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
     classID: 23
     script: {fileID: 0}
-  m_PPtrCurves:
-  - curve:
-    - time: 0
-      value: {fileID: 2100000, guid: 0e3c38b118855fa4bbcb4af29387d7b6, type: 2}
-    - time: 1
-      value: {fileID: 2100000, guid: bfa63bdd2683ffa43a9a594ce3b02646, type: 2}
-    attribute: m_Materials.Array.data[0]
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
-    classID: 23
-    script: {fileID: 0}
+  m_PPtrCurves: []
   m_SampleRate: 60
   m_WrapMode: 0
   m_Bounds:
@@ -924,21 +965,21 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 2551851273
+      path: 3059605830
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2551851273
+      path: 3059605830
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2551851273
+      path: 3059605830
       attribute: 3
       script: {fileID: 0}
       typeID: 4
@@ -1078,40 +1119,33 @@ AnimationClip:
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3597104704
+      path: 2411133314
       attribute: 3305885265
       script: {fileID: 0}
       typeID: 23
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 49233132
+      path: 1241356536
+      attribute: 3305885265
+      script: {fileID: 0}
+      typeID: 23
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 377389700
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2551851273
-      attribute: 3305885265
-      script: {fileID: 0}
-      typeID: 23
-      customType: 0
-      isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 49233132
+      path: 377389700
       attribute: 2108656497
       script: {fileID: 0}
       typeID: 23
       customType: 22
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 49233132
-      attribute: 0
-      script: {fileID: 0}
-      typeID: 23
-      customType: 21
-      isPPtrCurve: 1
     - serializedVersion: 2
       path: 3366881942
       attribute: 1
@@ -1127,29 +1161,41 @@ AnimationClip:
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 49233132
+      path: 377389700
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 377389700
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 377389700
       attribute: 1303350129
       script: {fileID: 0}
       typeID: 23
       customType: 22
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 49233132
+      path: 377389700
       attribute: 1571785585
       script: {fileID: 0}
       typeID: 23
       customType: 22
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 49233132
+      path: 377389700
       attribute: 1840221041
       script: {fileID: 0}
       typeID: 23
       customType: 22
       isPPtrCurve: 0
-    pptrCurveMapping:
-    - {fileID: 2100000, guid: 0e3c38b118855fa4bbcb4af29387d7b6, type: 2}
-    - {fileID: 2100000, guid: bfa63bdd2683ffa43a9a594ce3b02646, type: 2}
+    pptrCurveMapping: []
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
@@ -1240,7 +1286,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 1
+        time: 2
         value: 0
         inSlope: Infinity
         outSlope: Infinity
@@ -1315,7 +1361,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 1
+        time: 2
         value: 0
         inSlope: Infinity
         outSlope: Infinity
@@ -1541,7 +1587,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 1
+        time: 2
         value: 0
         inSlope: Infinity
         outSlope: Infinity
@@ -1813,173 +1859,6 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1
-        value: 80
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1
-        value: 80
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1
-        value: 80
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 0.25
-        value: 0
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Enabled
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01/\u684C\u5B50_Part02"
-    classID: 23
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 0.25
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_IsActive
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
-    classID: 1
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
         value: 0
         inSlope: 0
         outSlope: 0
@@ -1998,7 +1877,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
-        value: 0
+        value: -90
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2009,7 +1888,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2017,7 +1896,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 27
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2026,7 +1905,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.25
-        value: 0
+        value: 27
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2035,7 +1914,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
-        value: -72
+        value: -45.000004
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2046,7 +1925,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2083,7 +1962,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2091,7 +1970,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 0.359
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2100,7 +1979,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.25
-        value: 0
+        value: 0.359
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2109,7 +1988,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
-        value: 50.37
+        value: 3.62
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2120,7 +1999,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2128,7 +2007,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 0.919
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2137,7 +2016,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.25
-        value: 0
+        value: 0.919
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2146,7 +2025,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
-        value: -72.1
+        value: -4.72
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2157,7 +2036,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2165,7 +2044,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 0.681
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2174,7 +2053,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.25
-        value: 0
+        value: 0.681
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2183,7 +2062,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
-        value: -38.21
+        value: 8.76
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2194,7 +2073,118 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.25
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 62.847878
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.25
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 62.847878
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.25
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 62.847878
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2210,7 +2200,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.6666667
+        time: 1
         value: 0
         inSlope: Infinity
         outSlope: Infinity
@@ -2222,8 +2212,232 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Enabled
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01"
     classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -90.00001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: -90.00001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 116.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 116.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.3616999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0.3616999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9491001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0.9491001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.7764997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0.7764997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    classID: 4
     script: {fileID: 0}
   - curve:
       serializedVersion: 2
@@ -2259,7 +2473,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._Color.r
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -2296,7 +2510,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._Color.g
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -2333,7 +2547,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._Color.b
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -2370,7 +2584,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._Color.a
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
     classID: 23
     script: {fileID: 0}
   m_EulerEditorCurves:
@@ -2380,8 +2594,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
+    attribute: m_LocalEulerAngles.z
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2391,7 +2605,37 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2401,7 +2645,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_Part01"
+    path: "3D/All/4in1\u5340\u584A/4in1_L/\u684C\u5B50/\u684C\u5B50_\u5C55\u793A\u90E8\u4EF6/\u684C\u5B50_Part01/\u684C\u5B50_Part02/2DanyCAD\u57FA\u790E\u6A21\u578B"
     classID: 4
     script: {fileID: 0}
   m_HasGenericRootTransform: 0
