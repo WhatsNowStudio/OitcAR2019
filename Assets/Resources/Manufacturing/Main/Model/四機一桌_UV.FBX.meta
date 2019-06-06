@@ -20,6 +20,9 @@ ModelImporter:
     100028: "\u5DE5\u4EF6005"
     100030: "\u5DE5\u4EF6006"
     100032: "\u684C\u5B50"
+    100034: "2DanyCAD\u6B32\u7F6E\u63DB\u6A21\u578B"
+    100036: "\u684C\u5B50_Part01"
+    100038: "\u684C\u5B50_Part02"
     400000: Object001
     400002: "\u52A0\u5DE5\u6A5F001"
     400004: "\u52A0\u5DE5\u6A5F001_\u5347\u964D\u53F0"
@@ -37,6 +40,9 @@ ModelImporter:
     400028: "\u5DE5\u4EF6005"
     400030: "\u5DE5\u4EF6006"
     400032: "\u684C\u5B50"
+    400034: "2DanyCAD\u6B32\u7F6E\u63DB\u6A21\u578B"
+    400036: "\u684C\u5B50_Part01"
+    400038: "\u684C\u5B50_Part02"
     2100000: yellowMetal
     2100002: GrayMatel
     2100004: blueplastic
@@ -61,6 +67,9 @@ ModelImporter:
     2300026: "\u5DE5\u4EF6005"
     2300028: "\u5DE5\u4EF6006"
     2300030: "\u684C\u5B50"
+    2300032: "2DanyCAD\u6B32\u7F6E\u63DB\u6A21\u578B"
+    2300034: "\u684C\u5B50_Part01"
+    2300036: "\u684C\u5B50_Part02"
     3300000: Object001
     3300002: "\u52A0\u5DE5\u6A5F001"
     3300004: "\u52A0\u5DE5\u6A5F001_\u5347\u964D\u53F0"
@@ -77,6 +86,9 @@ ModelImporter:
     3300026: "\u5DE5\u4EF6005"
     3300028: "\u5DE5\u4EF6006"
     3300030: "\u684C\u5B50"
+    3300032: "2DanyCAD\u6B32\u7F6E\u63DB\u6A21\u578B"
+    3300034: "\u684C\u5B50_Part01"
+    3300036: "\u684C\u5B50_Part02"
     4300000: "\u52A0\u5DE5\u6A5F004"
     4300002: "\u5713\u76E4"
     4300004: "\u5DE5\u4EF6002"
@@ -93,6 +105,9 @@ ModelImporter:
     4300026: "\u52A0\u5DE5\u6A5F001_\u5347\u964D\u53F0"
     4300028: Object001
     4300030: "\u52A0\u5DE5\u6A5F003_\u5347\u964D\u53F0"
+    4300032: "2DanyCAD\u6B32\u7F6E\u63DB\u6A21\u578B"
+    4300034: "\u684C\u5B50_Part02"
+    4300036: "\u684C\u5B50_Part01"
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
