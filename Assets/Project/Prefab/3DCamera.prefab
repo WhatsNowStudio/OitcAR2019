@@ -29,7 +29,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1137944475076960518}
   m_LocalRotation: {x: 0.000000059604645, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 0, y: 0, z: -7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7034462864658394867}
@@ -4981,7 +4981,7 @@ MonoBehaviour:
           networkSync: 0
           value: {x: 0, y: 0, z: 0}
         - useVariable: 1
-          name: V3/Default/Camera/Main
+          name: V3/Default/Camera/Camera
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -5775,7 +5775,7 @@ MonoBehaviour:
         - useVariable: 1
           name: Obj/WorldCenter
           tooltip: 
-          showInInspector: 0
+          showInInspector: 1
           networkSync: 0
           value: {fileID: 0}
         - useVariable: 1
@@ -8084,7 +8084,7 @@ MonoBehaviour:
       - useVariable: 1
         name: Obj/WorldCenter
         tooltip: 
-        showInInspector: 0
+        showInInspector: 1
         networkSync: 0
         value: {fileID: 0}
       objectVariables: []

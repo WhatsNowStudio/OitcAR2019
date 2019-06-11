@@ -18,6 +18,7 @@ TextureImporter:
     21300026: loading
     21300028: Checkicon
     21300030: UI_5
+    21300032: FrameNoShadow
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -214,7 +215,7 @@ TextureImporter:
       name: Frame_Shadow
       rect:
         serializedVersion: 2
-        x: 368
+        x: 365
         y: 1555
         width: 152
         height: 157
@@ -419,13 +420,33 @@ TextureImporter:
         width: 55
         height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 14, y: 14, z: 14, w: 14}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: d03b02dd903056c4bb9af08b9f0627b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrameNoShadow
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1341
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54acf681871483741989493288d21cc5
       vertices: []
       indices: 
       edges: []
