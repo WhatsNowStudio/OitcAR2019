@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Project/MainScene.unity
     guid: 548c9d4937177e9469e3d04cedab4c1d
+  - enabled: 0
+    path: Assets/VIDEOTEST.unity
+    guid: d03f11c8963f74e4ab0b8d0f17e78ca5
   m_configObjects: {}
