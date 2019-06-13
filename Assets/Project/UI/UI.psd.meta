@@ -19,6 +19,10 @@ TextureImporter:
     21300028: Checkicon
     21300030: UI_5
     21300032: FrameNoShadow
+    21300034: Line
+    21300036: UI_6
+    21300038: UI_7
+    21300040: UI_8
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -447,6 +451,86 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 54acf681871483741989493288d21cc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 345
+        width: 312
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 183, y: 0, z: 31, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897634f427c9c1b49ae40a48aee0fda9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 289
+        width: 213
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22598bb501d14624eb29b1d106ff0ce4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 539
+        width: 289
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67da72a529ac2c04ba52439ea06abb10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_8
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 439
+        width: 55
+        height: 974
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 0, z: 10, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728c3a4abc98dab47b5cc66fc05db1db
       vertices: []
       indices: 
       edges: []
