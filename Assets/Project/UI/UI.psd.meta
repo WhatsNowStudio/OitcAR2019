@@ -23,6 +23,7 @@ TextureImporter:
     21300036: UI_6
     21300038: UI_7
     21300040: UI_8
+    21300042: UI_9
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -531,6 +532,26 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 728c3a4abc98dab47b5cc66fc05db1db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 183
+        width: 270
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60170bfaad871c944a911e7bcde28005
       vertices: []
       indices: 
       edges: []
