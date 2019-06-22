@@ -10,6 +10,7 @@ ModelImporter:
     100008: "\u87BA\u7D72B"
     100010: "\u87BA\u7D72C"
     100012: "\u87BA\u7D72"
+    100014: "\u57FA\u53F0WIRE"
     400000: //RootNode
     400002: "\u57FA\u53F0"
     400004: "\u5F37\u5316\u808B"
@@ -17,6 +18,7 @@ ModelImporter:
     400008: "\u87BA\u7D72B"
     400010: "\u87BA\u7D72C"
     400012: "\u87BA\u7D72"
+    400014: "\u57FA\u53F0WIRE"
     2100000: 13 - Default
     2300000: "\u57FA\u53F0"
     2300002: "\u5F37\u5316\u808B"
@@ -24,18 +26,21 @@ ModelImporter:
     2300006: "\u87BA\u7D72B"
     2300008: "\u87BA\u7D72C"
     2300010: "\u87BA\u7D72"
+    2300012: "\u57FA\u53F0WIRE"
     3300000: "\u57FA\u53F0"
     3300002: "\u5F37\u5316\u808B"
     3300004: "\u87BA\u7D72A"
     3300006: "\u87BA\u7D72B"
     3300008: "\u87BA\u7D72C"
     3300010: "\u87BA\u7D72"
+    3300012: "\u57FA\u53F0WIRE"
     4300000: "\u57FA\u53F0"
     4300002: "\u5F37\u5316\u808B"
     4300004: "\u87BA\u7D72A"
     4300006: "\u87BA\u7D72B"
     4300008: "\u87BA\u7D72C"
     4300010: "\u87BA\u7D72"
+    4300012: "\u57FA\u53F0WIRE"
   externalObjects: {}
   materials:
     importMaterials: 1

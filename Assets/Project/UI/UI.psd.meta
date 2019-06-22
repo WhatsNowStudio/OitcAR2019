@@ -24,6 +24,7 @@ TextureImporter:
     21300038: UI_7
     21300040: UI_8
     21300042: UI_9
+    21300044: UI_10
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -545,13 +546,33 @@ TextureImporter:
         width: 270
         height: 446
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: 60170bfaad871c944a911e7bcde28005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_10
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 244
+        width: 810
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce5566e1772dc24ea74906c501b9471
       vertices: []
       indices: 
       edges: []
