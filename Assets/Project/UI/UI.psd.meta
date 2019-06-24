@@ -25,6 +25,8 @@ TextureImporter:
     21300040: UI_8
     21300042: UI_9
     21300044: UI_10
+    21300046: UI_11
+    21300048: UI_12
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -566,13 +568,53 @@ TextureImporter:
         width: 810
         height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: 0ce5566e1772dc24ea74906c501b9471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1140
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563cf83e52638b545af917e4ad970e68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 751
+        width: 277
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaff23b839bf7e41b7000f5c890db8e
       vertices: []
       indices: 
       edges: []
