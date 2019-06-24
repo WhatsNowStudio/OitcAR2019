@@ -1373,6 +1373,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ARCamera
       objectReference: {fileID: 0}
+    - target: {fileID: 6813418023030957716, guid: 1359e4e1f6176e648949f3e2cc4ccd6b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3834339573938830829, guid: 1359e4e1f6176e648949f3e2cc4ccd6b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1875,11 +1880,6 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2138945708926556262, guid: dd8ad64ae11355e44b85d430e47ebeb2,
-        type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -0.000068661524
-      objectReference: {fileID: 0}
     - target: {fileID: 5269387473468946749, guid: dd8ad64ae11355e44b85d430e47ebeb2,
         type: 3}
       propertyPath: m_AnchorMin.y
@@ -1949,11 +1949,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SizeDelta.y
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1762552910808601706, guid: dd8ad64ae11355e44b85d430e47ebeb2,
-        type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -1337.0684
       objectReference: {fileID: 0}
     - target: {fileID: 1030951673578936215, guid: dd8ad64ae11355e44b85d430e47ebeb2,
         type: 3}

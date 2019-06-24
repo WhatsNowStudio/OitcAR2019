@@ -639,7 +639,7 @@ MonoBehaviour:
         customNames:
         - 
         - 
-        actionEnabled: 0000
+        actionEnabled: 0101
         actionIsOpen: 0101
         actionStartIndex: 0000000003000000
         actionHashCodes: 9845b30541159400
@@ -850,8 +850,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 538
-        y: 234
+        x: 539
+        y: 226
         width: 100
         height: 16
       isBreakpoint: 0
@@ -941,7 +941,7 @@ MonoBehaviour:
         name: Rest
         isSystemEvent: 0
         isGlobal: 1
-      toState: "\u8A08\u7B97\u6E1B\u901F"
+      toState: Non
       linkStyle: 0
       linkConstraint: 0
       colorIndex: 0
@@ -997,7 +997,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -1039,7 +1039,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1971378544747049992}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1384774831, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
   m_Name: 
@@ -2219,8 +2219,8 @@ MonoBehaviour:
       hideUnused: 0
       transitions:
       - fsmEvent:
-          name: FINISHED
-          isSystemEvent: 1
+          name: Go
+          isSystemEvent: 0
           isGlobal: 0
         toState: "\u57F7\u884C\u529F\u80FD-"
         linkStyle: 0
@@ -2230,13 +2230,15 @@ MonoBehaviour:
         actionNames:
         - HutongGames.PlayMaker.Actions.SetGameObject
         - HutongGames.PlayMaker.Actions.GetOwner
+        - HutongGames.PlayMaker.Actions.NextFrameEventAdvance
         customNames:
         - 
         - 
-        actionEnabled: 0101
-        actionIsOpen: 0101
-        actionStartIndex: 0000000003000000
-        actionHashCodes: 4d51cf045c004505
+        - 
+        actionEnabled: 010101
+        actionIsOpen: 010101
+        actionStartIndex: 000000000300000004000000
+        actionHashCodes: 4d51cf045c00450566e6a403
         unityObjectParams: []
         fsmGameObjectParams:
         - useVariable: 1
@@ -2270,27 +2272,36 @@ MonoBehaviour:
         fsmArrayParams: []
         fsmEnumParams: []
         fsmFloatParams: []
-        fsmIntParams: []
+        fsmIntParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 5
         fsmBoolParams: []
         fsmVector2Params: []
         fsmVector3Params: []
         fsmColorParams: []
         fsmRectParams: []
         fsmQuaternionParams: []
-        stringParams: []
+        stringParams:
+        - Go
         byteData: 00
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 13000000130000000100000013000000
+        paramDataType: 130000001300000001000000130000001000000017000000
         paramName:
         - variable
         - gameObject
         - everyFrame
         - storeGameObject
-        paramDataPos: 00000000010000000000000002000000
-        paramByteDataSize: 00000000000000000100000000000000
+        - frameCount
+        - sendEvent
+        paramDataPos: 000000000100000000000000020000000000000000000000
+        paramByteDataSize: 000000000000000001000000000000000000000000000000
     - name: "\u5075\u6E2C\u624B\u6307"
       description: 
       colorIndex: 2
@@ -3656,7 +3667,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -4119,8 +4130,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 51
-        y: 190
+        x: 64
+        y: 178
         width: 100
         height: 16
       isBreakpoint: 0
@@ -4869,7 +4880,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -8329,7 +8340,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7031765267892372465}
-  m_LocalRotation: {x: 0.22359031, y: 0, z: 0, w: 0.9746832}
+  m_LocalRotation: {x: 0.2164396, y: 0, z: 0, w: 0.97629607}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -8339,7 +8350,7 @@ Transform:
   - {fileID: 7034506337584726783}
   m_Father: {fileID: 6493380178696936095}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 25.84, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 25, y: 0, z: 0}
 --- !u!1 &7031790749694567977
 GameObject:
   m_ObjectHideFlags: 0
