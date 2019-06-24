@@ -522,7 +522,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: "Video/3ds Max\u8996\u89BA\u5316.mp4"
+          value: 3dsMax.mp4
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
