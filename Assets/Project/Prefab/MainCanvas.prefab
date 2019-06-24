@@ -5995,18 +5995,18 @@ MonoBehaviour:
             \          \"Resource\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",           \"Cutscenes\":
             \"\u81EA\u52D5\u5316\u8A2D\u8A08\",           \"Cutscenes-1\": \"\u81EA\u52D5\u5316\u8A2D\u8A08-1\",
             \          \"Pic\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\"         },         \"4\":
-            {           \"Title\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
+            {           \"Title\": \"\u6A5F\u68B0\u4FBF\u89BD\u9B54\u6CD5\u5E2B\",
             \          \"Resource\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
             \          \"Cutscenes\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
             \          \"Cutscenes-1\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B-1\",
             \          \"Pic\": \"Preview\"         },         \"5\": {           \"Title\":
-            \"NIC\u5206\u6790\",           \"Resource\": \"NIC\u5206\u6790\",           \"Cutscenes\":
-            \"NIC\u5206\u6790\",           \"Cutscenes-1\": \"NIC\u5206\u6790-1\",
-            \          \"Pic\": \"analysis\"         },         \"6\": {           \"Title\":
-            \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Resource\": \"HSM\u88FD\u9020\u52A0\u5DE5\",
-            \          \"Cutscenes\": \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Cutscenes-1\":
-            \"HSM\u88FD\u9020\u52A0\u5DE5-1\",           \"Pic\": \"Manufacturing\"
-            \        },         \"7\": {           \"Title\": \"\u7C21\u5831\u6A21\u7D44\",
+            \"Nastran\u5206\u6790\",           \"Resource\": \"NIC\u5206\u6790\",
+            \          \"Cutscenes\": \"NIC\u5206\u6790\",           \"Cutscenes-1\":
+            \"NIC\u5206\u6790-1\",           \"Pic\": \"analysis\"         },         \"6\":
+            {           \"Title\": \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Resource\":
+            \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Cutscenes\": \"HSM\u88FD\u9020\u52A0\u5DE5\",
+            \          \"Cutscenes-1\": \"HSM\u88FD\u9020\u52A0\u5DE5-1\",           \"Pic\":
+            \"Manufacturing\"         },         \"7\": {           \"Title\": \"\u7C21\u5831\u6A21\u7D44\",
             \          \"Resource\": \"\u7C21\u5831\u6A21\u7D44\",           \"Cutscenes\":
             \"\u7C21\u5831\u6A21\u7D44\",           \"Cutscenes-1\": \"\u7C21\u5831\u6A21\u7D44-1\",
             \          \"Pic\": \"briefing\"         },         \"8\": {           \"Title\":
@@ -6435,18 +6435,18 @@ MonoBehaviour:
             \          \"Resource\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",           \"Cutscenes\":
             \"\u81EA\u52D5\u5316\u8A2D\u8A08\",           \"Cutscenes-1\": \"\u81EA\u52D5\u5316\u8A2D\u8A08-1\",
             \          \"Pic\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\"         },         \"4\":
-            {           \"Title\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
+            {           \"Title\": \"\u6A5F\u68B0\u4FBF\u89BD\u9B54\u6CD5\u5E2B\",
             \          \"Resource\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
             \          \"Cutscenes\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
             \          \"Cutscenes-1\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B-1\",
             \          \"Pic\": \"Preview\"         },         \"5\": {           \"Title\":
-            \"NIC\u5206\u6790\",           \"Resource\": \"NIC\u5206\u6790\",           \"Cutscenes\":
-            \"NIC\u5206\u6790\",           \"Cutscenes-1\": \"NIC\u5206\u6790-1\",
-            \          \"Pic\": \"analysis\"         },         \"6\": {           \"Title\":
-            \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Resource\": \"HSM\u88FD\u9020\u52A0\u5DE5\",
-            \          \"Cutscenes\": \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Cutscenes-1\":
-            \"HSM\u88FD\u9020\u52A0\u5DE5-1\",           \"Pic\": \"Manufacturing\"
-            \        },         \"7\": {           \"Title\": \"\u7C21\u5831\u6A21\u7D44\",
+            \"Nastran\u5206\u6790\",           \"Resource\": \"NIC\u5206\u6790\",
+            \          \"Cutscenes\": \"NIC\u5206\u6790\",           \"Cutscenes-1\":
+            \"NIC\u5206\u6790-1\",           \"Pic\": \"analysis\"         },         \"6\":
+            {           \"Title\": \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Resource\":
+            \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Cutscenes\": \"HSM\u88FD\u9020\u52A0\u5DE5\",
+            \          \"Cutscenes-1\": \"HSM\u88FD\u9020\u52A0\u5DE5-1\",           \"Pic\":
+            \"Manufacturing\"         },         \"7\": {           \"Title\": \"\u7C21\u5831\u6A21\u7D44\",
             \          \"Resource\": \"\u7C21\u5831\u6A21\u7D44\",           \"Cutscenes\":
             \"\u7C21\u5831\u6A21\u7D44\",           \"Cutscenes-1\": \"\u7C21\u5831\u6A21\u7D44-1\",
             \          \"Pic\": \"briefing\"         },         \"8\": {           \"Title\":
@@ -6505,18 +6505,18 @@ MonoBehaviour:
             \          \"Resource\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",           \"Cutscenes\":
             \"\u81EA\u52D5\u5316\u8A2D\u8A08\",           \"Cutscenes-1\": \"\u81EA\u52D5\u5316\u8A2D\u8A08-1\",
             \          \"Pic\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\"         },         \"4\":
-            {           \"Title\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
+            {           \"Title\": \"\u6A5F\u68B0\u4FBF\u89BD\u9B54\u6CD5\u5E2B\",
             \          \"Resource\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
             \          \"Cutscenes\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
             \          \"Cutscenes-1\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B-1\",
             \          \"Pic\": \"Preview\"         },         \"5\": {           \"Title\":
-            \"NIC\u5206\u6790\",           \"Resource\": \"NIC\u5206\u6790\",           \"Cutscenes\":
-            \"NIC\u5206\u6790\",           \"Cutscenes-1\": \"NIC\u5206\u6790-1\",
-            \          \"Pic\": \"analysis\"         },         \"6\": {           \"Title\":
-            \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Resource\": \"HSM\u88FD\u9020\u52A0\u5DE5\",
-            \          \"Cutscenes\": \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Cutscenes-1\":
-            \"HSM\u88FD\u9020\u52A0\u5DE5-1\",           \"Pic\": \"Manufacturing\"
-            \        },         \"7\": {           \"Title\": \"\u7C21\u5831\u6A21\u7D44\",
+            \"Nastran\u5206\u6790\",           \"Resource\": \"NIC\u5206\u6790\",
+            \          \"Cutscenes\": \"NIC\u5206\u6790\",           \"Cutscenes-1\":
+            \"NIC\u5206\u6790-1\",           \"Pic\": \"analysis\"         },         \"6\":
+            {           \"Title\": \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Resource\":
+            \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Cutscenes\": \"HSM\u88FD\u9020\u52A0\u5DE5\",
+            \          \"Cutscenes-1\": \"HSM\u88FD\u9020\u52A0\u5DE5-1\",           \"Pic\":
+            \"Manufacturing\"         },         \"7\": {           \"Title\": \"\u7C21\u5831\u6A21\u7D44\",
             \          \"Resource\": \"\u7C21\u5831\u6A21\u7D44\",           \"Cutscenes\":
             \"\u7C21\u5831\u6A21\u7D44\",           \"Cutscenes-1\": \"\u7C21\u5831\u6A21\u7D44-1\",
             \          \"Pic\": \"briefing\"         },         \"8\": {           \"Title\":
@@ -6865,7 +6865,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 1
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 603619244854964269}
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []
@@ -6993,7 +6993,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 1
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 603619244854964269}
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []
@@ -8149,7 +8149,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 1
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 603619244854964269}
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []
@@ -9235,7 +9235,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 1
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 603619244854964269}
         - ownerOption: 1
           gameObject:
             useVariable: 1
@@ -9243,7 +9243,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 1
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 603619244854964269}
         - ownerOption: 1
           gameObject:
             useVariable: 1
@@ -9251,7 +9251,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 1
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 603619244854964269}
         - ownerOption: 1
           gameObject:
             useVariable: 1
@@ -9259,7 +9259,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 1
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 603619244854964269}
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []
@@ -9650,7 +9650,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 1
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 603619244854964269}
         - ownerOption: 1
           gameObject:
             useVariable: 1
@@ -13237,6 +13237,7 @@ MonoBehaviour:
         - HutongGames.PlayMaker.Actions.BuildString
         - HutongGames.PlayMaker.Actions.ResourcesLoad
         - HutongGames.PlayMaker.Actions.SetParent
+        - HutongGames.PlayMaker.Actions.SetScale
         - HutongGames.PlayMaker.Actions.GetAnimatorCurrentStateInfo
         - HutongGames.PlayMaker.Actions.FloatCompare
         - HutongGames.PlayMaker.Actions.GetChild
@@ -13253,10 +13254,11 @@ MonoBehaviour:
         - 
         - 
         - 
-        actionEnabled: 01010101010101010101
-        actionIsOpen: 01000000000001000000
-        actionStartIndex: 00000000020000000900000012000000170000001b00000029000000300000003400000041000000
-        actionHashCodes: 9bd6f80115a3be057370ae0559f0ec00ea32a105c6a348021bcdca04184b570427ffbc035e69bb04
+        - 
+        actionEnabled: 0101010101010101010101
+        actionIsOpen: 0000000001010000000000
+        actionStartIndex: 00000000020000000900000012000000170000001b0000002200000030000000370000003b00000048000000
+        actionHashCodes: 9bd6f80115a3be057370ae0559f0ec00ea32a105afff1105c6a348021bcdca04184b570427ffbc035e69bb04
         unityObjectParams: []
         fsmGameObjectParams:
         - useVariable: 1
@@ -13286,6 +13288,14 @@ MonoBehaviour:
             showInInspector: 1
             networkSync: 0
             value: {fileID: 3611026744483645783}
+        - ownerOption: 1
+          gameObject:
+            useVariable: 1
+            name: Obj/Feature/3D
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
         - ownerOption: 1
           gameObject:
             useVariable: 1
@@ -13507,6 +13517,24 @@ MonoBehaviour:
         fsmArrayParams: []
         fsmEnumParams: []
         fsmFloatParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
         - useVariable: 1
           name: 
           tooltip: 
@@ -13649,6 +13677,12 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: {x: 0, y: 0, z: 0}
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: {x: 0, y: 0, z: 0}
         fsmColorParams:
         - useVariable: 1
           name: 
@@ -13684,7 +13718,7 @@ MonoBehaviour:
         - 
         - Go
         - AlignCamera_1
-        byteData: 0001000000000100
+        byteData: 00000001000000000100
         arrayParamSizes: 010000000100000004000000
         arrayParamTypes:
         - HutongGames.PlayMaker.FsmString
@@ -13692,7 +13726,7 @@ MonoBehaviour:
         - HutongGames.PlayMaker.FsmString
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 1400000012000000120000000c000000120000000c0000002700000017000000170000000c000000120000001200000012000000120000001200000011000000120000000100000012000000270000001100000017000000170000001400000013000000110000001100000014000000100000001200000010000000100000001000000010000000110000000f0000000f000000100000000f00000001000000070000000f0000000f0000000f000000170000001700000017000000010000001400000012000000120000001300000013000000100000000f0000001200000011000000250000001c0000001e00000023000000190000002000000021000000180000001f000000170000000f00000001000000
+        paramDataType: 1400000012000000120000000c000000120000000c0000002700000017000000170000000c0000001200000012000000120000001200000012000000110000001200000001000000120000002700000011000000170000001700000014000000130000001100000011000000140000001c0000000f0000000f0000000f000000010000000100000014000000100000001200000010000000100000001000000010000000110000000f0000000f000000100000000f00000001000000070000000f0000000f0000000f000000170000001700000017000000010000001400000012000000120000001300000013000000100000000f0000001200000011000000250000001c0000001e00000023000000190000002000000021000000180000001f000000170000000f00000001000000
         paramName:
         - gameObject
         - trigger
@@ -13721,6 +13755,13 @@ MonoBehaviour:
         - parent
         - resetLocalPosition
         - resetLocalRotation
+        - gameObject
+        - vector
+        - x
+        - y
+        - z
+        - everyFrame
+        - lateUpdate
         - gameObject
         - layerIndex
         - name
@@ -13763,8 +13804,8 @@ MonoBehaviour:
         - sendEvent
         - delay
         - everyFrame
-        paramDataPos: 00000000000000000100000000000000020000000100000000000000000000000100000002000000030000000400000005000000060000000700000000000000080000000000000009000000010000000100000002000000030000000100000000000000020000000300000002000000000000000a000000010000000200000003000000040000000400000000000000010000000500000002000000010000000200000003000000040000000500000004000000050000000600000006000000030000000b0000000c000000010000000200000006000000060000000d00000005000000000000000000000000000000000000000000000000000000010000000200000000000000070000000700000007000000
-        paramByteDataSize: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000400000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000
+        paramDataPos: 0000000000000000010000000000000002000000010000000000000000000000010000000200000003000000040000000500000006000000070000000000000008000000000000000900000001000000010000000200000003000000010000000000000002000000030000000200000000000000000000000100000002000000010000000200000003000000000000000a000000010000000200000003000000040000000400000003000000040000000500000005000000030000000400000006000000070000000800000004000000050000000600000008000000040000000b0000000c000000010000000200000006000000090000000d00000005000000000000000100000000000000000000000000000000000000010000000200000000000000070000000a00000009000000
+        paramByteDataSize: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000400000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000
     - name: "\u6BBA\u63893D\u52D5\u756B"
       description: "#\u64A5\u653E\u7522\u696D\u904E\u5834\n#\u4ECB\u9762\u6062\u5FA9\u6B63\u5E38\n#3D\u651D\u5F71\u6A5F\u6B78\u4F4D"
       colorIndex: 3
