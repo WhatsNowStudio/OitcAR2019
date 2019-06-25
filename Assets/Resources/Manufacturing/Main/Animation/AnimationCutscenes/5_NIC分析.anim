@@ -3184,6 +3184,25 @@ AnimationClip:
     path: 3D/All/Shadow
     classID: 1
     script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: "3D/All/\u55AE\u4E00\u5DE5\u5177\u6A5F\u5340\u584A/\u55AE\u4E00\u5DE5\u5177\u6A5F_L/\u55AE\u4E00\u52A0\u5DE5\u6A5F_\u684C\u5B50/\u55AE\u4E00\u52A0\u5DE5\u6A5F_\u52A0\u5DE5\u6A5F/\u55AE\u4E00\u52A0\u5DE5\u6A5F_\u5347\u964D\u53F0/NCAD/\u57FA\u53F0WIRE"
+    classID: 1
+    script: {fileID: 0}
   m_PPtrCurves: []
   m_SampleRate: 60
   m_WrapMode: 0
@@ -3635,6 +3654,13 @@ AnimationClip:
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 625013994
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 503510260
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
@@ -7573,6 +7599,25 @@ AnimationClip:
       m_RotationOrder: 4
     attribute: m_IsActive
     path: 3D/All/Shadow
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: "3D/All/\u55AE\u4E00\u5DE5\u5177\u6A5F\u5340\u584A/\u55AE\u4E00\u5DE5\u5177\u6A5F_L/\u55AE\u4E00\u52A0\u5DE5\u6A5F_\u684C\u5B50/\u55AE\u4E00\u52A0\u5DE5\u6A5F_\u52A0\u5DE5\u6A5F/\u55AE\u4E00\u52A0\u5DE5\u6A5F_\u5347\u964D\u53F0/NCAD/\u57FA\u53F0WIRE"
     classID: 1
     script: {fileID: 0}
   m_EulerEditorCurves:

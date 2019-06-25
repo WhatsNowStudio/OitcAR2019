@@ -2473,7 +2473,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 133.55057, y: 0}
+  m_AnchoredPosition: {x: 136.14633, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8891133776923343269
@@ -6623,8 +6623,7 @@ MonoBehaviour:
           \        \"6\": {           \"Title\": \"\u89E3\u6C7A\u65B9\u6848\",           \"VideoClip\":
           \"=6\",           \"Pic\": \"solution\"         }       },       \"Feature\":
           {         \"0\": {           \"Title\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986\",
-          \          \"Resource\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986\",
-          \          \"Cutscenes\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986\",
+          \          \"Resource\": \"Geometry\",           \"Cutscenes\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986\",
           \          \"Cutscenes-1\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986-1\",
           \          \"Pic\": \"Geometry\"         },         \"1\": {           \"Title\":
           \"2D ANY CAD\",           \"Resource\": \"2DAnyCAD\",           \"Cutscenes\":
@@ -6633,27 +6632,25 @@ MonoBehaviour:
           \          \"Resource\": \"3DAnyCAD\",           \"Cutscenes\": \"3DAnyCAD\",
           \          \"Cutscenes-1\": \"3DAnyCAD-1\",           \"Pic\": \"3DANYCAD\"
           \        },         \"3\": {           \"Title\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",
-          \          \"Resource\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",           \"Cutscenes\":
-          \"\u81EA\u52D5\u5316\u8A2D\u8A08\",           \"Cutscenes-1\": \"\u81EA\u52D5\u5316\u8A2D\u8A08-1\",
-          \          \"Pic\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\"         },         \"4\":
-          {           \"Title\": \"\u6A5F\u68B0\u4FBF\u89BD\u9B54\u6CD5\u5E2B\",           \"Resource\":
-          \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",           \"Cutscenes\":
-          \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",           \"Cutscenes-1\":
-          \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B-1\",           \"Pic\": \"Preview\"
-          \        },         \"5\": {           \"Title\": \"Nastran\u5206\u6790\",
-          \          \"Resource\": \"NIC\u5206\u6790\",           \"Cutscenes\": \"NIC\u5206\u6790\",
-          \          \"Cutscenes-1\": \"NIC\u5206\u6790-1\",           \"Pic\": \"analysis\"
-          \        },         \"6\": {           \"Title\": \"HSM\u88FD\u9020\u52A0\u5DE5\",
-          \          \"Resource\": \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Cutscenes\":
-          \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Cutscenes-1\": \"HSM\u88FD\u9020\u52A0\u5DE5-1\",
-          \          \"Pic\": \"Manufacturing\"         },         \"7\": {           \"Title\":
-          \"\u7C21\u5831\u6A21\u7D44\",           \"Resource\": \"\u7C21\u5831\u6A21\u7D44\",
-          \          \"Cutscenes\": \"\u7C21\u5831\u6A21\u7D44\",           \"Cutscenes-1\":
-          \"\u7C21\u5831\u6A21\u7D44-1\",           \"Pic\": \"briefing\"         },
-          \        \"8\": {           \"Title\": \"3DMax\u793A\u7BC4\u5F71\u7247\",
-          \          \"Resource\": \"3DMax\u793A\u7BC4\u5F71\u7247\",           \"Cutscenes\":
-          \"3DMax\u793A\u7BC4\u5F71\u7247\",           \"Cutscenes-1\": \"3DMax\u793A\u7BC4\u5F71\u7247-1\",
-          \          \"Pic\": \"3DMAX\"         }       }     }   } }"
+          \          \"Resource\": \"iLogic\",           \"Cutscenes\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",
+          \          \"Cutscenes-1\": \"\u81EA\u52D5\u5316\u8A2D\u8A08-1\",           \"Pic\":
+          \"\u81EA\u52D5\u5316\u8A2D\u8A08\"         },         \"4\": {           \"Title\":
+          \"\u6A5F\u68B0\u4FBF\u89BD\u9B54\u6CD5\u5E2B\",           \"Resource\":
+          \"Magician\",           \"Cutscenes\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
+          \          \"Cutscenes-1\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B-1\",
+          \          \"Pic\": \"Preview\"         },         \"5\": {           \"Title\":
+          \"Nastran\u5206\u6790\",           \"Resource\": \"NIC\",           \"Cutscenes\":
+          \"NIC\u5206\u6790\",           \"Cutscenes-1\": \"NIC\u5206\u6790-1\",           \"Pic\":
+          \"analysis\"         },         \"6\": {           \"Title\": \"HSM\u88FD\u9020\u52A0\u5DE5\",
+          \          \"Resource\": \"HSM\",           \"Cutscenes\": \"HSM\u88FD\u9020\u52A0\u5DE5\",
+          \          \"Cutscenes-1\": \"HSM\u88FD\u9020\u52A0\u5DE5-1\",           \"Pic\":
+          \"Manufacturing\"         },         \"7\": {           \"Title\": \"\u7C21\u5831\u6A21\u7D44\",
+          \          \"Resource\": \"Briefing\",           \"Cutscenes\": \"\u7C21\u5831\u6A21\u7D44\",
+          \          \"Cutscenes-1\": \"\u7C21\u5831\u6A21\u7D44-1\",           \"Pic\":
+          \"briefing\"         },         \"8\": {           \"Title\": \"3DMax\u793A\u7BC4\u5F71\u7247\",
+          \          \"Resource\": \"3DMax\",           \"Cutscenes\": \"3DMax\u793A\u7BC4\u5F71\u7247\",
+          \          \"Cutscenes-1\": \"3DMax\u793A\u7BC4\u5F71\u7247-1\",           \"Pic\":
+          \"3DMAX\"         }       }     }   } }"
       - useVariable: 1
         name: String/Json/Industry
         tooltip: 
@@ -8120,7 +8117,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 01010101
-        actionIsOpen: 01010101
+        actionIsOpen: 00000001
         actionStartIndex: 00000000050000000a0000000f000000
         actionHashCodes: b2cf1000b2cf1000b2cf100048c01101
         unityObjectParams: []
@@ -8167,7 +8164,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 1
+          value: 0.5
         fsmIntParams: []
         fsmBoolParams:
         - useVariable: 0
@@ -9909,7 +9906,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 1.2
+          value: 0.7
         - useVariable: 0
           name: 
           tooltip: 
@@ -16550,7 +16547,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 133.55057, y: 0}
+  m_AnchoredPosition: {x: 136.14633, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &499071041599153833
@@ -17822,7 +17819,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 124.7191, y: 0}
+  m_AnchoredPosition: {x: 125.560974, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4759244487660097051
@@ -18154,7 +18151,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -1334.8539, y: 0}
+  m_AnchoredPosition: {x: -1335.8535, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &5340907360909283386
@@ -19124,7 +19121,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 124.7191, y: 0}
+  m_AnchoredPosition: {x: 125.560974, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7930565872554353120
@@ -20025,7 +20022,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0.000007609104, y: 0}
+  m_AnchoredPosition: {x: -0.000004496427, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &7701590442227075058
