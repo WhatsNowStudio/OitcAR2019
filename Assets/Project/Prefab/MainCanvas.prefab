@@ -5830,7 +5830,7 @@ MonoBehaviour:
     dataVersion: 2
     usedInTemplate: {fileID: 0}
     name: JsonManager
-    startState: "\u89E3\u6790"
+    startState: Start
     states:
     - name: Start
       description: 
@@ -5860,7 +5860,7 @@ MonoBehaviour:
         customNames:
         - 
         - 
-        actionEnabled: 0000
+        actionEnabled: 0100
         actionIsOpen: 0101
         actionStartIndex: 0000000005000000
         actionHashCodes: 59f0ec00e4ef5700
@@ -5891,53 +5891,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: "{   \"Industry\": {     \"Manufacturing\": {       \"VideoDescription\":
-            {         \"0\": {           \"Title\": \"PDMC\",           \"VideoClip\":
-            \"=0\",           \"Pic\": \"PDMC\"         },         \"1\": {           \"Title\":
-            \"\u8A2D\u8A08\u968E\u6BB5\",           \"VideoClip\": \"=1\",           \"Pic\":
-            \"2D3D\"         },         \"2\": {           \"Title\": \"\u5206\u6790\u9A57\u8B49\u968E\u6BB5\",
-            \          \"VideoClip\": \"=2\",           \"Pic\": \"NastranInCAD\"
-            \        },         \"3\": {           \"Title\": \"HSM\u6578\u63A7\u52A0\u5DE5\",
-            \          \"VideoClip\": \"=3\",           \"Pic\": \"HSM\"         },
-            \        \"4\": {           \"Title\": \"\u5354\u540C\u8A2D\u8A08\u8207\u8CC7\u6599\u7BA1\u7406\",
-            \          \"VideoClip\": \"=4\",           \"Pic\": \"Co-Design\"         },
-            \        \"5\": {           \"Title\": \"\u63D0\u6848\u8207\u884C\u92B7\",
-            \          \"VideoClip\": \"=5\",           \"Pic\": \"3DMAX\"         },
-            \        \"6\": {           \"Title\": \"\u89E3\u6C7A\u65B9\u6848\",           \"VideoClip\":
-            \"=6\",           \"Pic\": \"solution\"         }       },       \"Feature\":
-            {         \"0\": {           \"Title\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986\",
-            \          \"Resource\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986\",
-            \          \"Cutscenes\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986\",
-            \          \"Cutscenes-1\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986-1\",
-            \          \"Pic\": \"Geometry\"         },         \"1\": {           \"Title\":
-            \"2D ANY CAD\",           \"Resource\": \"2DAnyCAD\",           \"Cutscenes\":
-            \"2DAnyCAD\",           \"Cutscenes-1\": \"2DAnyCAD-1\",           \"Pic\":
-            \"2DANYCAD\"         },         \"2\": {           \"Title\": \"3D ANY
-            CAD\",           \"Resource\": \"3DAnyCAD\",           \"Cutscenes\":
-            \"3DAnyCAD\",           \"Cutscenes-1\": \"3DAnyCAD-1\",           \"Pic\":
-            \"3DANYCAD\"         },         \"3\": {           \"Title\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",
-            \          \"Resource\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",           \"Cutscenes\":
-            \"\u81EA\u52D5\u5316\u8A2D\u8A08\",           \"Cutscenes-1\": \"\u81EA\u52D5\u5316\u8A2D\u8A08-1\",
-            \          \"Pic\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\"         },         \"4\":
-            {           \"Title\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
-            \          \"Resource\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
-            \          \"Cutscenes\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
-            \          \"Cutscenes-1\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B-1\",
-            \          \"Pic\": \"Preview\"         },         \"5\": {           \"Title\":
-            \"NIC\u5206\u6790\",           \"Resource\": \"NIC\u5206\u6790\",           \"Cutscenes\":
-            \"NIC\u5206\u6790\",           \"Cutscenes-1\": \"NIC\u5206\u6790-1\",
-            \          \"Pic\": \"analysis\"         },         \"6\": {           \"Title\":
-            \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Resource\": \"HSM\u88FD\u9020\u52A0\u5DE5\",
-            \          \"Cutscenes\": \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Cutscenes-1\":
-            \"HSM\u88FD\u9020\u52A0\u5DE5-1\",           \"Pic\": \"Manufacturing\"
-            \        },         \"7\": {           \"Title\": \"\u7C21\u5831\u6A21\u7D44\",
-            \          \"Resource\": \"\u7C21\u5831\u6A21\u7D44\",           \"Cutscenes\":
-            \"\u7C21\u5831\u6A21\u7D44\",           \"Cutscenes-1\": \"\u7C21\u5831\u6A21\u7D44-1\",
-            \          \"Pic\": \"briefing\"         },         \"8\": {           \"Title\":
-            \"3DMax\u793A\u7BC4\u5F71\u7247\",           \"Resource\": \"3DMax\u793A\u7BC4\u5F71\u7247\",
-            \          \"Cutscenes\": \"3DMax\u793A\u7BC4\u5F71\u7247\",           \"Cutscenes-1\":
-            \"3DMax\u793A\u7BC4\u5F71\u7247-1\",           \"Pic\": \"3DMAX\"         }
-            \      }     }   } }"
+          value: 
         - useVariable: 1
           name: 
           tooltip: 
@@ -5967,50 +5921,7 @@ MonoBehaviour:
           floatValue: 0
           intValue: 0
           boolValue: 0
-          stringValue: "{   \"Industry\": {     \"Manufacturing\": {       \"VideoDescription\":
-            {         \"0\": {           \"Title\": \"PDMC\",           \"VideoClip\":
-            \"=0\",           \"Pic\": \"PDMC\"         },         \"1\": {           \"Title\":
-            \"\u8A2D\u8A08\u968E\u6BB5\",           \"VideoClip\": \"=1\",           \"Pic\":
-            \"2D3D\"         },         \"2\": {           \"Title\": \"\u5206\u6790\u9A57\u8B49\u968E\u6BB5\",
-            \          \"VideoClip\": \"=2\",           \"Pic\": \"NastranInCAD\"
-            \        },         \"3\": {           \"Title\": \"HSM\u6578\u63A7\u52A0\u5DE5\",
-            \          \"VideoClip\": \"=3\",           \"Pic\": \"HSM\"         },
-            \        \"4\": {           \"Title\": \"\u5354\u540C\u8A2D\u8A08\u8207\u8CC7\u6599\u7BA1\u7406\",
-            \          \"VideoClip\": \"=4\",           \"Pic\": \"Co-Design\"         },
-            \        \"5\": {           \"Title\": \"\u63D0\u6848\u8207\u884C\u92B7\",
-            \          \"VideoClip\": \"=5\",           \"Pic\": \"3DMAX\"         },
-            \        \"6\": {           \"Title\": \"\u89E3\u6C7A\u65B9\u6848\",           \"VideoClip\":
-            \"=6\",           \"Pic\": \"solution\"         }       },       \"Feature\":
-            {         \"0\": {           \"Title\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986\",
-            \          \"Resource\": \"Geometry\",           \"Cutscenes\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986\",
-            \          \"Cutscenes-1\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986-1\",
-            \          \"Pic\": \"Geometry\"         },         \"1\": {           \"Title\":
-            \"2D ANY CAD\",           \"Resource\": \"2DAnyCAD\",           \"Cutscenes\":
-            \"2DAnyCAD\",           \"Cutscenes-1\": \"2DAnyCAD-1\",           \"Pic\":
-            \"2DANYCAD\"         },         \"2\": {           \"Title\": \"3D ANY
-            CAD\",           \"Resource\": \"3DAnyCAD\",           \"Cutscenes\":
-            \"3DAnyCAD\",           \"Cutscenes-1\": \"3DAnyCAD-1\",           \"Pic\":
-            \"3DANYCAD\"         },         \"3\": {           \"Title\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",
-            \          \"Resource\": \"iLogic\",           \"Cutscenes\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",
-            \          \"Cutscenes-1\": \"\u81EA\u52D5\u5316\u8A2D\u8A08-1\",           \"Pic\":
-            \"\u81EA\u52D5\u5316\u8A2D\u8A08\"         },         \"4\": {           \"Title\":
-            \"\u6A5F\u68B0\u4FBF\u89BD\u9B54\u6CD5\u5E2B\",           \"Resource\":
-            \"Magician\",           \"Cutscenes\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
-            \          \"Cutscenes-1\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B-1\",
-            \          \"Pic\": \"Preview\"         },         \"5\": {           \"Title\":
-            \"Nastran\u5206\u6790\",           \"Resource\": \"NIC\",           \"Cutscenes\":
-            \"NIC\u5206\u6790\",           \"Cutscenes-1\": \"NIC\u5206\u6790-1\",
-            \          \"Pic\": \"analysis\"         },         \"6\": {           \"Title\":
-            \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Resource\": \"HSM\",           \"Cutscenes\":
-            \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Cutscenes-1\": \"HSM\u88FD\u9020\u52A0\u5DE5-1\",
-            \          \"Pic\": \"Manufacturing\"         },         \"7\": {           \"Title\":
-            \"\u7C21\u5831\u6A21\u7D44\",           \"Resource\": \"Briefing\",           \"Cutscenes\":
-            \"\u7C21\u5831\u6A21\u7D44\",           \"Cutscenes-1\": \"\u7C21\u5831\u6A21\u7D44-1\",
-            \          \"Pic\": \"briefing\"         },         \"8\": {           \"Title\":
-            \"3DMax\u793A\u7BC4\u5F71\u7247\",           \"Resource\": \"3DMax\",
-            \          \"Cutscenes\": \"3DMax\u793A\u7BC4\u5F71\u7247\",           \"Cutscenes-1\":
-            \"3DMax\u793A\u7BC4\u5F71\u7247-1\",           \"Pic\": \"3DMAX\"         }
-            \      }     }   } }"
+          stringValue: 
           vector4Value: {x: 0, y: 0, z: 0, w: 0}
           objectReference: {fileID: 0}
           arrayValue:
@@ -6062,7 +5973,7 @@ MonoBehaviour:
         fsmRectParams: []
         fsmQuaternionParams: []
         stringParams:
-        - 
+        - Go
         - 
         - Go
         - 
@@ -6342,8 +6253,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 63
-        y: 223
+        x: 65
+        y: 164
         width: 100
         height: 16
       isBreakpoint: 0
@@ -6404,50 +6315,7 @@ MonoBehaviour:
           floatValue: 0
           intValue: 0
           boolValue: 0
-          stringValue: "{   \"Industry\": {     \"Manufacturing\": {       \"VideoDescription\":
-            {         \"0\": {           \"Title\": \"PDMC\",           \"VideoClip\":
-            \"=0\",           \"Pic\": \"PDMC\"         },         \"1\": {           \"Title\":
-            \"\u8A2D\u8A08\u968E\u6BB5\",           \"VideoClip\": \"=1\",           \"Pic\":
-            \"2D3D\"         },         \"2\": {           \"Title\": \"\u5206\u6790\u9A57\u8B49\u968E\u6BB5\",
-            \          \"VideoClip\": \"=2\",           \"Pic\": \"NastranInCAD\"
-            \        },         \"3\": {           \"Title\": \"HSM\u6578\u63A7\u52A0\u5DE5\",
-            \          \"VideoClip\": \"=3\",           \"Pic\": \"HSM\"         },
-            \        \"4\": {           \"Title\": \"\u5354\u540C\u8A2D\u8A08\u8207\u8CC7\u6599\u7BA1\u7406\",
-            \          \"VideoClip\": \"=4\",           \"Pic\": \"Co-Design\"         },
-            \        \"5\": {           \"Title\": \"\u63D0\u6848\u8207\u884C\u92B7\",
-            \          \"VideoClip\": \"=5\",           \"Pic\": \"3DMAX\"         },
-            \        \"6\": {           \"Title\": \"\u89E3\u6C7A\u65B9\u6848\",           \"VideoClip\":
-            \"=6\",           \"Pic\": \"solution\"         }       },       \"Feature\":
-            {         \"0\": {           \"Title\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986\",
-            \          \"Resource\": \"Geometry\",           \"Cutscenes\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986\",
-            \          \"Cutscenes-1\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986-1\",
-            \          \"Pic\": \"Geometry\"         },         \"1\": {           \"Title\":
-            \"2D ANY CAD\",           \"Resource\": \"2DAnyCAD\",           \"Cutscenes\":
-            \"2DAnyCAD\",           \"Cutscenes-1\": \"2DAnyCAD-1\",           \"Pic\":
-            \"2DANYCAD\"         },         \"2\": {           \"Title\": \"3D ANY
-            CAD\",           \"Resource\": \"3DAnyCAD\",           \"Cutscenes\":
-            \"3DAnyCAD\",           \"Cutscenes-1\": \"3DAnyCAD-1\",           \"Pic\":
-            \"3DANYCAD\"         },         \"3\": {           \"Title\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",
-            \          \"Resource\": \"iLogic\",           \"Cutscenes\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",
-            \          \"Cutscenes-1\": \"\u81EA\u52D5\u5316\u8A2D\u8A08-1\",           \"Pic\":
-            \"\u81EA\u52D5\u5316\u8A2D\u8A08\"         },         \"4\": {           \"Title\":
-            \"\u6A5F\u68B0\u4FBF\u89BD\u9B54\u6CD5\u5E2B\",           \"Resource\":
-            \"Magician\",           \"Cutscenes\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
-            \          \"Cutscenes-1\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B-1\",
-            \          \"Pic\": \"Preview\"         },         \"5\": {           \"Title\":
-            \"Nastran\u5206\u6790\",           \"Resource\": \"NIC\",           \"Cutscenes\":
-            \"NIC\u5206\u6790\",           \"Cutscenes-1\": \"NIC\u5206\u6790-1\",
-            \          \"Pic\": \"analysis\"         },         \"6\": {           \"Title\":
-            \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Resource\": \"HSM\",           \"Cutscenes\":
-            \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Cutscenes-1\": \"HSM\u88FD\u9020\u52A0\u5DE5-1\",
-            \          \"Pic\": \"Manufacturing\"         },         \"7\": {           \"Title\":
-            \"\u7C21\u5831\u6A21\u7D44\",           \"Resource\": \"Briefing\",           \"Cutscenes\":
-            \"\u7C21\u5831\u6A21\u7D44\",           \"Cutscenes-1\": \"\u7C21\u5831\u6A21\u7D44-1\",
-            \          \"Pic\": \"briefing\"         },         \"8\": {           \"Title\":
-            \"3DMax\u793A\u7BC4\u5F71\u7247\",           \"Resource\": \"3DMax\",
-            \          \"Cutscenes\": \"3DMax\u793A\u7BC4\u5F71\u7247\",           \"Cutscenes-1\":
-            \"3DMax\u793A\u7BC4\u5F71\u7247-1\",           \"Pic\": \"3DMAX\"         }
-            \      }     }   } }"
+          stringValue: 
           vector4Value: {x: 0, y: 0, z: 0, w: 0}
           objectReference: {fileID: 0}
           arrayValue:
@@ -6471,50 +6339,7 @@ MonoBehaviour:
           floatValue: 0
           intValue: 0
           boolValue: 0
-          stringValue: "{   \"Industry\": {     \"Manufacturing\": {       \"VideoDescription\":
-            {         \"0\": {           \"Title\": \"PDMC\",           \"VideoClip\":
-            \"=0\",           \"Pic\": \"PDMC\"         },         \"1\": {           \"Title\":
-            \"\u8A2D\u8A08\u968E\u6BB5\",           \"VideoClip\": \"=1\",           \"Pic\":
-            \"2D3D\"         },         \"2\": {           \"Title\": \"\u5206\u6790\u9A57\u8B49\u968E\u6BB5\",
-            \          \"VideoClip\": \"=2\",           \"Pic\": \"NastranInCAD\"
-            \        },         \"3\": {           \"Title\": \"HSM\u6578\u63A7\u52A0\u5DE5\",
-            \          \"VideoClip\": \"=3\",           \"Pic\": \"HSM\"         },
-            \        \"4\": {           \"Title\": \"\u5354\u540C\u8A2D\u8A08\u8207\u8CC7\u6599\u7BA1\u7406\",
-            \          \"VideoClip\": \"=4\",           \"Pic\": \"Co-Design\"         },
-            \        \"5\": {           \"Title\": \"\u63D0\u6848\u8207\u884C\u92B7\",
-            \          \"VideoClip\": \"=5\",           \"Pic\": \"3DMAX\"         },
-            \        \"6\": {           \"Title\": \"\u89E3\u6C7A\u65B9\u6848\",           \"VideoClip\":
-            \"=6\",           \"Pic\": \"solution\"         }       },       \"Feature\":
-            {         \"0\": {           \"Title\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986\",
-            \          \"Resource\": \"Geometry\",           \"Cutscenes\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986\",
-            \          \"Cutscenes-1\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986-1\",
-            \          \"Pic\": \"Geometry\"         },         \"1\": {           \"Title\":
-            \"2D ANY CAD\",           \"Resource\": \"2DAnyCAD\",           \"Cutscenes\":
-            \"2DAnyCAD\",           \"Cutscenes-1\": \"2DAnyCAD-1\",           \"Pic\":
-            \"2DANYCAD\"         },         \"2\": {           \"Title\": \"3D ANY
-            CAD\",           \"Resource\": \"3DAnyCAD\",           \"Cutscenes\":
-            \"3DAnyCAD\",           \"Cutscenes-1\": \"3DAnyCAD-1\",           \"Pic\":
-            \"3DANYCAD\"         },         \"3\": {           \"Title\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",
-            \          \"Resource\": \"iLogic\",           \"Cutscenes\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",
-            \          \"Cutscenes-1\": \"\u81EA\u52D5\u5316\u8A2D\u8A08-1\",           \"Pic\":
-            \"\u81EA\u52D5\u5316\u8A2D\u8A08\"         },         \"4\": {           \"Title\":
-            \"\u6A5F\u68B0\u4FBF\u89BD\u9B54\u6CD5\u5E2B\",           \"Resource\":
-            \"Magician\",           \"Cutscenes\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
-            \          \"Cutscenes-1\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B-1\",
-            \          \"Pic\": \"Preview\"         },         \"5\": {           \"Title\":
-            \"Nastran\u5206\u6790\",           \"Resource\": \"NIC\",           \"Cutscenes\":
-            \"NIC\u5206\u6790\",           \"Cutscenes-1\": \"NIC\u5206\u6790-1\",
-            \          \"Pic\": \"analysis\"         },         \"6\": {           \"Title\":
-            \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Resource\": \"HSM\",           \"Cutscenes\":
-            \"HSM\u88FD\u9020\u52A0\u5DE5\",           \"Cutscenes-1\": \"HSM\u88FD\u9020\u52A0\u5DE5-1\",
-            \          \"Pic\": \"Manufacturing\"         },         \"7\": {           \"Title\":
-            \"\u7C21\u5831\u6A21\u7D44\",           \"Resource\": \"Briefing\",           \"Cutscenes\":
-            \"\u7C21\u5831\u6A21\u7D44\",           \"Cutscenes-1\": \"\u7C21\u5831\u6A21\u7D44-1\",
-            \          \"Pic\": \"briefing\"         },         \"8\": {           \"Title\":
-            \"3DMax\u793A\u7BC4\u5F71\u7247\",           \"Resource\": \"3DMax\",
-            \          \"Cutscenes\": \"3DMax\u793A\u7BC4\u5F71\u7247\",           \"Cutscenes-1\":
-            \"3DMax\u793A\u7BC4\u5F71\u7247-1\",           \"Pic\": \"3DMAX\"         }
-            \      }     }   } }"
+          stringValue: 
           vector4Value: {x: 0, y: 0, z: 0, w: 0}
           objectReference: {fileID: 0}
           arrayValue:
@@ -6599,49 +6424,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 0
         networkSync: 0
-        value: "{   \"Industry\": {     \"Manufacturing\": {       \"VideoDescription\":
-          {         \"0\": {           \"Title\": \"PDMC\",           \"VideoClip\":
-          \"=0\",           \"Pic\": \"PDMC\"         },         \"1\": {           \"Title\":
-          \"\u8A2D\u8A08\u968E\u6BB5\",           \"VideoClip\": \"=1\",           \"Pic\":
-          \"2D3D\"         },         \"2\": {           \"Title\": \"\u5206\u6790\u9A57\u8B49\u968E\u6BB5\",
-          \          \"VideoClip\": \"=2\",           \"Pic\": \"NastranInCAD\"         },
-          \        \"3\": {           \"Title\": \"HSM\u6578\u63A7\u52A0\u5DE5\",
-          \          \"VideoClip\": \"=3\",           \"Pic\": \"HSM\"         },
-          \        \"4\": {           \"Title\": \"\u5354\u540C\u8A2D\u8A08\u8207\u8CC7\u6599\u7BA1\u7406\",
-          \          \"VideoClip\": \"=4\",           \"Pic\": \"Co-Design\"         },
-          \        \"5\": {           \"Title\": \"\u63D0\u6848\u8207\u884C\u92B7\",
-          \          \"VideoClip\": \"=5\",           \"Pic\": \"3DMAX\"         },
-          \        \"6\": {           \"Title\": \"\u89E3\u6C7A\u65B9\u6848\",           \"VideoClip\":
-          \"=6\",           \"Pic\": \"solution\"         }       },       \"Feature\":
-          {         \"0\": {           \"Title\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986\",
-          \          \"Resource\": \"Geometry\",           \"Cutscenes\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986\",
-          \          \"Cutscenes-1\": \"\u5E7E\u4F55\u5716\u5F62\u7ACB\u9AD4\u5305\u8986-1\",
-          \          \"Pic\": \"Geometry\"         },         \"1\": {           \"Title\":
-          \"2D ANY CAD\",           \"Resource\": \"2DAnyCAD\",           \"Cutscenes\":
-          \"2DAnyCAD\",           \"Cutscenes-1\": \"2DAnyCAD-1\",           \"Pic\":
-          \"2DANYCAD\"         },         \"2\": {           \"Title\": \"3D ANY CAD\",
-          \          \"Resource\": \"3DAnyCAD\",           \"Cutscenes\": \"3DAnyCAD\",
-          \          \"Cutscenes-1\": \"3DAnyCAD-1\",           \"Pic\": \"3DANYCAD\"
-          \        },         \"3\": {           \"Title\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",
-          \          \"Resource\": \"iLogic\",           \"Cutscenes\": \"\u81EA\u52D5\u5316\u8A2D\u8A08\",
-          \          \"Cutscenes-1\": \"\u81EA\u52D5\u5316\u8A2D\u8A08-1\",           \"Pic\":
-          \"\u81EA\u52D5\u5316\u8A2D\u8A08\"         },         \"4\": {           \"Title\":
-          \"\u6A5F\u68B0\u4FBF\u89BD\u9B54\u6CD5\u5E2B\",           \"Resource\":
-          \"Magician\",           \"Cutscenes\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B\",
-          \          \"Cutscenes-1\": \"\u6A5F\u68B0\u904D\u89BD\u9B54\u6CD5\u5E2B-1\",
-          \          \"Pic\": \"Preview\"         },         \"5\": {           \"Title\":
-          \"Nastran\u5206\u6790\",           \"Resource\": \"NIC\",           \"Cutscenes\":
-          \"NIC\u5206\u6790\",           \"Cutscenes-1\": \"NIC\u5206\u6790-1\",           \"Pic\":
-          \"analysis\"         },         \"6\": {           \"Title\": \"HSM\u88FD\u9020\u52A0\u5DE5\",
-          \          \"Resource\": \"HSM\",           \"Cutscenes\": \"HSM\u88FD\u9020\u52A0\u5DE5\",
-          \          \"Cutscenes-1\": \"HSM\u88FD\u9020\u52A0\u5DE5-1\",           \"Pic\":
-          \"Manufacturing\"         },         \"7\": {           \"Title\": \"\u7C21\u5831\u6A21\u7D44\",
-          \          \"Resource\": \"Briefing\",           \"Cutscenes\": \"\u7C21\u5831\u6A21\u7D44\",
-          \          \"Cutscenes-1\": \"\u7C21\u5831\u6A21\u7D44-1\",           \"Pic\":
-          \"briefing\"         },         \"8\": {           \"Title\": \"3DMax\u793A\u7BC4\u5F71\u7247\",
-          \          \"Resource\": \"3DMax\",           \"Cutscenes\": \"3DMax\u793A\u7BC4\u5F71\u7247\",
-          \          \"Cutscenes-1\": \"3DMax\u793A\u7BC4\u5F71\u7247-1\",           \"Pic\":
-          \"3DMAX\"         }       }     }   } }"
+        value: 
       - useVariable: 1
         name: String/Json/Industry
         tooltip: 
@@ -12900,7 +12683,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 010101010101
-        actionIsOpen: 010000000000
+        actionIsOpen: 010000010101
         actionStartIndex: 00000000030000000a000000110000001600000024000000
         actionHashCodes: 9ff80c0215a3be0515a3be05c34b4105c6a348021bcdca04
         unityObjectParams: []
@@ -13065,7 +12848,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0.99
+          value: 0.95
         - useVariable: 0
           name: 
           tooltip: 
@@ -13238,7 +13021,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 01010101
-        actionIsOpen: 00000001
+        actionIsOpen: 01010101
         actionStartIndex: 00000000020000000900000012000000
         actionHashCodes: 9bd6f80115a3be057370ae0559f0ec00
         unityObjectParams: []
