@@ -1,108 +1,117 @@
 {
-  "Industry": {
-    "Manufacturing": {
-      "VideoDescription": {
-        "0": {
-          "Title": "PDMC",
-          "VideoClip": "=0",
-          "Pic": "PDMC"
-        },
-        "1": {
-          "Title": "設計階段",
-          "VideoClip": "=1",
-          "Pic": "2D3D"
-        },
-        "2": {
-          "Title": "分析驗證階段",
-          "VideoClip": "=2",
-          "Pic": "NastranInCAD"
-        },
-        "3": {
-          "Title": "HSM數控加工",
-          "VideoClip": "=3",
-          "Pic": "HSM"
-        },
-        "4": {
-          "Title": "協同設計與資料管理",
-          "VideoClip": "=4",
-          "Pic": "Co-Design"
-        },
-        "5": {
-          "Title": "提案與行銷",
-          "VideoClip": "=5",
-          "Pic": "3DMAX"
-        },
-        "6": {
-          "Title": "解決方案",
-          "VideoClip": "=6",
-          "Pic": "solution"
-        }
-      },
-      "Feature": {
-        "0": {
-          "Title": "幾何圖形立體包覆",
-          "Resource": "Geometry",
-          "Cutscenes": "幾何圖形立體包覆",
-          "Cutscenes-1": "幾何圖形立體包覆-1",
-          "Pic": "Geometry"
-        },
-        "1": {
-          "Title": "2D ANY CAD",
-          "Resource": "2DAnyCAD",
-          "Cutscenes": "2DAnyCAD",
-          "Cutscenes-1": "2DAnyCAD-1",
-          "Pic": "2DANYCAD"
-        },
-        "2": {
-          "Title": "3D ANY CAD",
-          "Resource": "3DAnyCAD",
-          "Cutscenes": "3DAnyCAD",
-          "Cutscenes-1": "3DAnyCAD-1",
-          "Pic": "3DANYCAD"
-        },
-        "3": {
-          "Title": "自動化設計",
-          "Resource": "iLogic",
-          "Cutscenes": "自動化設計",
-          "Cutscenes-1": "自動化設計-1",
-          "Pic": "自動化設計"
-        },
-        "4": {
-          "Title": "機械便覽魔法師",
-          "Resource": "Magician",
-          "Cutscenes": "機械遍覽魔法師",
-          "Cutscenes-1": "機械遍覽魔法師-1",
-          "Pic": "Preview"
-        },
-        "5": {
-          "Title": "Nastran分析",
-          "Resource": "NIC",
-          "Cutscenes": "NIC分析",
-          "Cutscenes-1": "NIC分析-1",
-          "Pic": "analysis"
-        },
-        "6": {
-          "Title": "HSM製造加工",
-          "Resource": "HSM",
-          "Cutscenes": "HSM製造加工",
-          "Cutscenes-1": "HSM製造加工-1",
-          "Pic": "Manufacturing"
-        },
-        "7": {
-          "Title": "簡報模組",
-          "Resource": "Briefing",
-          "Cutscenes": "簡報模組",
-          "Cutscenes-1": "簡報模組-1",
-          "Pic": "briefing"
-        },
-        "8": {
-          "Title": "3Ds Max示範影片",
-          "Resource": "3DMax",
-          "Cutscenes": "3DMax示範影片",
-          "Cutscenes-1": "3DMax示範影片-1",
-          "Pic": "3DMAX"
-        }
-      }
+ "Industry": {
+  "Manufacturing": {
+   "VideoDescription": {
+    "0": {
+     "Title": "PDMC",
+     "VideoClip": "=0",
+     "Pic": "PDMC"
+    },
+    "1": {
+     "Title": "設計階段",
+     "VideoClip": "=1",
+     "Pic": "2D3D"
+    },
+    "2": {
+     "Title": "分析驗證階段",
+     "VideoClip": "=2",
+     "Pic": "NastranInCAD"
+    },
+    "3": {
+     "Title": "HSM數控加工",
+     "VideoClip": "=3",
+     "Pic": "HSM"
+    },
+    "4": {
+     "Title": "協同設計與資料管理",
+     "VideoClip": "=4",
+     "Pic": "Co-Design"
+    },
+    "5": {
+     "Title": "提案與行銷",
+     "VideoClip": "=5",
+     "Pic": "3DMAX"
+    },
+    "6": {
+     "Title": "解決方案",
+     "VideoClip": "=6",
+     "Pic": "solution"
     }
+   },
+   "Feature": {
+    "0": {
+     "Title": "幾何圖形立體包覆",
+     "Resource": "Geometry",
+     "Cutscenes": "幾何圖形立體包覆",
+     "VideoClip": "=0",
+     "Cutscenes-1": "幾何圖形立體包覆-1",
+     "Pic": "Geometry"
+    },
+    "1": {
+     "Title": "2D ANY CAD",
+     "VideoClip": "=1",
+     "Resource": "2DAnyCAD",
+     "Cutscenes": "2DAnyCAD",
+     "Cutscenes-1": "2DAnyCAD-1",
+     "Pic": "2DANYCAD"
+    },
+    "2": {
+     "Title": "3D ANY CAD",
+     "VideoClip": "=2",
+     "Resource": "3DAnyCAD",
+     "Cutscenes": "3DAnyCAD",
+     "Cutscenes-1": "3DAnyCAD-1",
+     "Pic": "3DANYCAD"
+    },
+    "3": {
+     "Title": "自動化設計",
+     "VideoClip": "=3",
+     "Resource": "iLogic",
+     "Cutscenes": "自動化設計",
+     "Cutscenes-1": "自動化設計-1",
+     "Pic": "自動化設計"
+    },
+    "4": {
+     "Title": "機械便覽魔法師",
+     "Resource": "Magician",
+     "Cutscenes": "機械遍覽魔法師",
+     "Cutscenes-1": "機械遍覽魔法師-1",
+     "VideoClip": "=4",
+     "Pic": "Preview"
+    },
+    "5": {
+     "Title": "Nastran分析",
+     "Resource": "NIC",
+     "Cutscenes": "NIC分析",
+     "Cutscenes-1": "NIC分析-1",
+     "VideoClip": "=5",
+     "Pic": "analysis"
+    },
+    "6": {
+     "Title": "HSM製造加工",
+     "Resource": "HSM",
+     "Cutscenes": "HSM製造加工",
+     "Cutscenes-1": "HSM製造加工-1",
+     "VideoClip": "=6",
+     "Pic": "Manufacturing"
+    },
+    "7": {
+     "Title": "簡報模組",
+     "Resource": "Briefing",
+     "Cutscenes": "簡報模組",
+     "Cutscenes-1": "簡報模組-1",
+     "VideoClip": "=7",
+     "Pic": "briefing"
+    },
+    "8": {
+     "VideoClip": "=8",
+     "Title": "3Ds Max示範影片",
+     "Resource": "3DMax",
+     "Cutscenes": "3DMax示範影片",
+     "Cutscenes-1": "3DMax示範影片-1",
+     "Pic": "3DMAX"
+    }
+   }
   }
+ }
 }
